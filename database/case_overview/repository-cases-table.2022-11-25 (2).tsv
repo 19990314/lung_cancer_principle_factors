@@ -1,0 +1,101 @@
+Cart	Case UUID	Case ID	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	Annotations	Program	Disease Type	Age at diagnosis	Days to death	Vital Status	Primary Diagnosis	Ethnicity	Race
+Case Actions	301ca6e8-7981-4264-b4ae-38f56f7f9225	TCGA-MP-A4T4	Bronchus and lung	Female	66	7	4	14	6	3	7	20	0	TCGA	Adenomas and Adenocarcinomas	68 years 215 days	7 years 61 days	Dead	Adenocarcinoma, NOS	not reported	white
+Case Actions	ccda26c1-a6d6-4317-8cf8-8a87e15ce12e	TCGA-44-2662	Bronchus and lung	Male	163	21	10	56	22	6	8	24	0	TCGA	Adenomas and Adenocarcinomas	65 years 273 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	5c06d97f-2aaa-43de-b085-09d7829356ba	TCGA-80-5608	Bronchus and lung	Female	64	6	4	14	6	3	7	19	0	TCGA	Adenomas and Adenocarcinomas	--	--	Alive	Adenocarcinoma, NOS	not reported	not reported
+Case Actions	6dfd47d2-831a-4386-9051-f78199a16bb5	TCGA-05-4397	Bronchus and lung	Male	66	6	4	14	6	3	7	21	0	TCGA	Adenomas and Adenocarcinomas	65 years 92 days	2 years 1 day	Dead	Adenocarcinoma with mixed subtypes	not reported	not reported
+Case Actions	9e640ff7-996e-427b-b56c-519a1e23baab	TCGA-86-A4P7	Bronchus and lung	Female	66	7	4	14	6	3	7	20	0	TCGA	Adenomas and Adenocarcinomas	63 years 320 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	5f4934be-eee3-40e1-8838-38103badc898	TCGA-MP-A4T6	Bronchus and lung	Female	65	6	4	14	6	3	7	20	0	TCGA	Adenomas and Adenocarcinomas	76 years 234 days	4 years 329 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	e0a19099-5d25-40df-ad73-6260df3a1b32	TCGA-05-5715	Bronchus and lung	Female	66	6	4	14	6	3	7	21	0	TCGA	Adenomas and Adenocarcinomas	69 years 181 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	not reported
+Case Actions	ff07ea4b-4e50-410d-99d6-96a351dad7b1	TCGA-55-7570	Bronchus and lung	Male	72	10	6	14	8	3	7	20	0	TCGA	Adenomas and Adenocarcinomas	60 years 303 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+Case Actions	abd6647b-d2eb-404d-8283-443e92addf55	TCGA-55-7995	Bronchus and lung	Female	68	6	4	14	8	3	7	22	0	TCGA	Adenomas and Adenocarcinomas	73 years 174 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	aebd0313-23be-46a8-abc6-b16c531c3a8e	TCGA-17-Z001	Bronchus and lung	--	42	2	0	14	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	07119baf-64a7-454c-b1b0-c769b506a63d	TCGA-17-Z055	Bronchus and lung	--	39	2	0	14	0	0	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	494d50b6-578e-441b-8195-4b4d26c0d810	TCGA-17-Z016	Bronchus and lung	--	42	2	0	14	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	9b714a42-62e8-4b33-947e-6c4850725afd	TCGA-17-Z015	Bronchus and lung	--	42	2	0	14	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	edd05f61-35f8-4133-a579-f9f32dff3bb8	TCGA-17-Z012	Bronchus and lung	--	27	1	0	0	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	f86e1da7-bad6-4eb8-ae4c-fa9421308d47	TCGA-17-Z043	Bronchus and lung	--	42	2	0	14	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	cc3d9750-7ce0-489f-86d4-8017b7ebed29	TCGA-50-5055	Bronchus and lung	Female	66	6	4	14	6	3	7	22	0	TCGA	Adenomas and Adenocarcinomas	79 years 134 days	5 years 4 days	Dead	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+Case Actions	51e49548-1ad0-4c83-ae8a-2fa95bf4712a	TCGA-17-Z054	Bronchus and lung	--	42	2	0	14	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	2dca3588-51e1-48f7-8c9b-7b7e53c3fb33	TCGA-17-Z053	Bronchus and lung	--	42	2	0	14	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	98ee294a-46ed-4572-bdd4-a932c3498a25	TCGA-MP-A4TA	Bronchus and lung	Female	64	8	4	14	2	3	8	20	0	TCGA	Adenomas and Adenocarcinomas	75 years 120 days	2 years 220 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	c390b6ad-14c8-49ea-9b38-798c9fad5b62	TCGA-17-Z003	Bronchus and lung	--	42	2	0	14	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	4ad63dac-76a7-4527-abce-d7a0184e8739	TCGA-91-8497	Bronchus and lung	Female	65	6	4	14	6	3	7	20	0	TCGA	Adenomas and Adenocarcinomas	75 years 239 days	1 year 69 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	25c9f984-1a5a-4cca-9ad1-39f759ea7174	TCGA-17-Z039	Bronchus and lung	--	27	1	0	0	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	0147edcf-0ca5-4136-bd01-43d05e2843f4	TCGA-17-Z038	Bronchus and lung	--	27	1	0	0	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	a16d7bf7-07b7-4320-969c-fc68dd564a92	TCGA-17-Z033	Bronchus and lung	--	42	2	0	14	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	62633a11-db23-481f-add3-853b2acac1bf	TCGA-17-Z045	Bronchus and lung	--	42	2	0	14	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	c43c8eea-7014-4abe-b805-397a9062d3e0	TCGA-17-Z031	Bronchus and lung	--	42	2	0	14	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	595fc3ad-f603-421b-b130-52f1f617050b	TCGA-NJ-A4YF	Bronchus and lung	Female	65	6	4	14	6	3	7	20	0	TCGA	Adenomas and Adenocarcinomas	50 years 322 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	black or african american
+Case Actions	61cd3ef8-eee4-4266-b01d-09338c89740a	TCGA-17-Z052	Bronchus and lung	--	42	2	0	14	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	7c4ed533-ee66-48be-a84b-ff8607742818	TCGA-MP-A4T8	Bronchus and lung	Male	66	6	4	14	6	3	8	20	0	TCGA	Adenomas and Adenocarcinomas	68 years 232 days	161 days	Dead	Adenocarcinoma, NOS	not reported	not reported
+Case Actions	d6a08727-affd-4a59-837b-ea71741d7f09	TCGA-17-Z049	Bronchus and lung	--	42	2	0	14	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	adbaba9c-5efc-4130-82f6-8055eab13795	TCGA-55-A494	Bronchus and lung	Female	65	6	4	14	6	3	7	20	0	TCGA	Adenomas and Adenocarcinomas	61 years 260 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	243c6fd6-5516-46e5-bcef-292d93d7b7d3	TCGA-69-7764	Bronchus and lung	Male	65	6	4	14	6	3	7	20	0	TCGA	Adenomas and Adenocarcinomas	75 years 300 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+Case Actions	4efc2dac-6330-4b7a-a529-a27285f5fc23	TCGA-75-7031	Bronchus and lung	Female	68	8	4	14	6	3	7	21	0	TCGA	Adenomas and Adenocarcinomas	--	--	Alive	Adenocarcinoma, NOS	not reported	not reported
+Case Actions	fddc4d29-1ae8-451d-a13e-8ef6492be201	TCGA-17-Z030	Bronchus and lung	--	42	2	0	14	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	daf0e08e-1738-43f8-874a-b37d79cbe3a7	TCGA-78-7536	Bronchus and lung	Male	68	8	4	14	6	3	7	21	0	TCGA	Adenomas and Adenocarcinomas	69 years 356 days	244 days	Dead	Adenocarcinoma, NOS	not reported	white
+Case Actions	19ca36e6-2154-4224-89b1-117a4a4407f6	TCGA-17-Z050	Bronchus and lung	--	42	2	0	14	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	81b71cff-da58-47cf-ad00-0a42489a7a0b	TCGA-17-Z017	Bronchus and lung	--	42	2	0	14	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	e44e279b-103e-436e-8988-1139b000bdfd	TCGA-17-Z022	Bronchus and lung	--	42	2	0	14	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	733087d2-98ed-4ac7-8b48-98f0fe1c4c0f	TCGA-17-Z034	Bronchus and lung	--	27	1	0	0	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	46592b7b-6968-42a6-83af-0917c9f4a9a5	TCGA-78-7535	Bronchus and lung	Male	66	6	4	14	6	3	7	21	0	TCGA	Adenomas and Adenocarcinomas	45 years 135 days	2 years 219 days	Dead	Adenocarcinoma, NOS	not reported	white
+Case Actions	e998a607-ac73-4849-afaa-57eee49cf051	TCGA-17-Z000	Bronchus and lung	--	42	2	0	14	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	d45aee46-838e-44af-8422-46710b3240a8	TCGA-50-8457	Bronchus and lung	Female	67	6	4	14	6	3	7	22	0	TCGA	Adenomas and Adenocarcinomas	63 years 45 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	black or african american
+Case Actions	3d0cbd55-4eda-4c52-93cc-a74381ea7c59	TCGA-17-Z035	Bronchus and lung	--	27	1	0	0	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	175cb088-9b10-4fa9-95c0-7837fdc7bcf9	TCGA-17-Z037	Bronchus and lung	--	42	2	0	14	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	f7f9f522-de88-4f9c-8ba4-7be3726faaf8	TCGA-MP-A4TK	Bronchus and lung	Female	65	6	4	14	6	3	7	20	0	TCGA	Adenomas and Adenocarcinomas	56 years 127 days	1 year 217 days	Dead	Adenocarcinoma, NOS	not reported	not reported
+Case Actions	67b5fb5d-2484-4aa5-aa7c-c6c5ecbc91b2	TCGA-17-Z048	Bronchus and lung	--	42	2	0	14	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	1f0a5312-0590-4230-9da9-fd0cfe693586	TCGA-55-7911	Bronchus and lung	Female	71	7	6	14	8	3	7	21	0	TCGA	Adenomas and Adenocarcinomas	70 years 179 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	392ca7f3-d52e-4aa7-a9ba-4c7d9aa6401c	TCGA-17-Z056	Bronchus and lung	--	42	2	0	14	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	b5cdf68a-9903-4f82-9017-ab88d2b73d4f	TCGA-17-Z018	Bronchus and lung	--	42	2	0	14	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	abf6eb5f-fa06-4032-8cff-c8522b0a3c9a	TCGA-17-Z047	Bronchus and lung	--	42	2	0	14	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	67a2593d-b986-4f84-a51c-7f2fb12e54ad	TCGA-17-Z044	Bronchus and lung	--	42	2	0	14	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	fae64c9d-5204-4dc6-a561-bf59506aabcc	TCGA-17-Z029	Bronchus and lung	--	27	1	0	0	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	4999df33-3a47-4feb-a264-c5d71b271d8c	TCGA-17-Z024	Bronchus and lung	--	27	1	0	0	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	d020e685-0435-4b0a-b03f-45853e1c6eed	TCGA-17-Z032	Bronchus and lung	--	42	2	0	14	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	94ee639e-3cb4-4943-b5f1-a89eb902153c	TCGA-17-Z041	Bronchus and lung	--	42	2	0	14	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	654affac-f8ed-40bb-9f9f-a293227b06a6	TCGA-17-Z010	Bronchus and lung	--	42	2	0	14	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	a5d0c704-2888-4cff-805e-4bbe4636117c	TCGA-17-Z019	Bronchus and lung	--	42	2	0	14	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	c05b1a5c-2f6d-448a-94c8-58cce3d34b37	TCGA-17-Z014	Bronchus and lung	--	40	2	0	12	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	257c9416-e86a-4c71-9dee-7212c2e56351	TCGA-17-Z060	Bronchus and lung	--	40	2	0	12	0	3	6	17	0	TCGA	Adenomas and Adenocarcinomas	--	--		--	--	--
+Case Actions	2cd8ea73-cb3f-4b17-9b97-fa12eb03b85b	TCGA-55-8299	Bronchus and lung	Female	68	7	4	14	8	3	7	21	0	TCGA	Adenomas and Adenocarcinomas	61 years 346 days	1 year 104 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	e43a2b72-35c6-4466-9007-ce96caf77ea8	TCGA-55-A493	Bronchus and lung	Female	66	8	4	14	6	3	7	20	0	TCGA	Adenomas and Adenocarcinomas	54 years 304 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	e21e2af3-dc71-41fa-94ba-7a7929f47d90	TCGA-J2-A4AG	Bronchus and lung	Female	65	6	4	14	6	3	7	20	0	TCGA	Adenomas and Adenocarcinomas	66 years 118 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	4ef872e1-82c9-4939-9248-41ed9d3085b2	TCGA-78-7145	Bronchus and lung	Female	66	6	4	14	6	3	7	21	0	TCGA	Adenomas and Adenocarcinomas	52 years 87 days	2 years 96 days	Dead	Adenocarcinoma, NOS	not reported	white
+Case Actions	03c3409a-9d16-41d0-9e26-f9fc2547a4c8	TCGA-73-4677	Bronchus and lung	Male	67	5	2	14	6	6	7	23	0	TCGA	Adenomas and Adenocarcinomas	74 years 353 days	38 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	9759bf3a-74ff-433f-99bb-f9406f222ed2	TCGA-99-8028	Bronchus and lung	Female	68	6	4	14	8	3	7	21	0	TCGA	Adenomas and Adenocarcinomas	50 years 280 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+Case Actions	42432463-8e92-4f25-b72a-f03953527aa5	TCGA-O1-A52J	Bronchus and lung	Female	65	6	4	14	6	3	7	20	0	TCGA	Adenomas and Adenocarcinomas	74 years 195 days	4 years 337 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	8f04660a-2efb-4947-9eab-375066b9eb33	TCGA-MP-A5C7	Bronchus and lung	Female	67	8	4	14	6	3	7	20	0	TCGA	Adenomas and Adenocarcinomas	76 years 256 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	e5cb0c86-8fe2-4cfc-b32b-e8ec3839ffc4	TCGA-55-6985	Bronchus and lung	Female	74	9	6	14	6	3	7	21	0	TCGA	Adenomas and Adenocarcinomas	58 years 197 days	--	Alive	Adenocarcinoma, NOS	not reported	white
+Case Actions	95fa64b0-91e1-4427-b81a-53c47a053563	TCGA-55-8205	Bronchus and lung	Female	67	6	4	14	8	3	8	20	0	TCGA	Adenomas and Adenocarcinomas	76 years 304 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	9582b436-145b-4f84-8f7f-8b39b8254cc1	TCGA-99-8033	Bronchus and lung	Female	67	6	4	14	8	3	7	21	0	TCGA	Adenomas and Adenocarcinomas	74 years 314 days	1 year 291 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	bab43415-d413-40be-a4c0-2c40a52afe6a	TCGA-44-2668	Bronchus and lung	Male	172	22	12	56	22	12	7	24	0	TCGA	Adenomas and Adenocarcinomas	51 years 229 days	2 years 31 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	079ae0b3-b64b-4b8e-ab7d-225b8046568c	TCGA-86-7954	Bronchus and lung	Female	71	8	4	14	8	3	7	22	0	TCGA	Adenomas and Adenocarcinomas	68 years 225 days	--	Alive	Bronchiolo-alveolar adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	7b89166e-c5b8-481b-aa70-495141499b91	TCGA-86-8669	Bronchus and lung	Male	66	6	4	14	6	3	7	21	0	TCGA	Adenomas and Adenocarcinomas	64 years 67 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	205759a6-6391-491b-9857-0080c3a5871e	TCGA-75-5125	Bronchus and lung	Male	67	7	4	14	6	3	7	21	0	TCGA	Adenomas and Adenocarcinomas	--	5 years 201 days	Dead	Adenocarcinoma, NOS	not reported	not reported
+Case Actions	b61abdfd-b7a0-4e1a-b570-d1eaecad3a9e	TCGA-49-4506	Bronchus and lung	Female	74	6	4	14	6	6	7	26	0	TCGA	Adenomas and Adenocarcinomas	68 years 295 days	2 years 269 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	7a0ea814-f0de-4bc4-a81a-daa000559369	TCGA-50-5933	Bronchus and lung	Male	81	10	8	14	6	6	7	21	0	TCGA	Adenomas and Adenocarcinomas	72 years 79 days	6 years 202 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	4addf05f-3668-4b3f-a17f-c0227329ca52	TCGA-05-4249	Bronchus and lung	Male	66	6	4	14	6	3	7	21	0	TCGA	Adenomas and Adenocarcinomas	67 years 61 days	--	Alive	Adenocarcinoma, NOS	not reported	not reported
+Case Actions	467d96d7-4a42-4116-8c32-0e4b34f96d8a	TCGA-86-8358	Bronchus and lung	Male	64	8	4	12	4	3	7	21	0	TCGA	Adenomas and Adenocarcinomas	44 years 338 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	c1a01e8c-1f7e-4e24-bfad-90b73f88e992	TCGA-78-7160	Bronchus and lung	Male	66	6	4	14	6	3	7	21	0	TCGA	Adenomas and Adenocarcinomas	61 years 105 days	1 year 332 days	Dead	Adenocarcinoma with mixed subtypes	not reported	white
+Case Actions	ccecce70-dd54-4c5b-bf9f-ca87d290cb00	TCGA-67-6216	Bronchus and lung	Female	66	6	4	14	6	3	7	21	0	TCGA	Adenomas and Adenocarcinomas	57 years 148 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	c583fdd1-8cd2-4c15-a23e-0644261f65da	TCGA-64-1681	Bronchus and lung	Female	66	6	4	14	6	3	7	21	0	TCGA	Adenomas and Adenocarcinomas	61 years 245 days	3 years 72 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	3afa5045-a1ee-4a07-8aad-2e252b2f7d7a	TCGA-49-AAR0	Bronchus and lung	Male	67	6	4	14	6	3	8	21	0	TCGA	Adenomas and Adenocarcinomas	57 years 113 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+Case Actions	12c07138-e3fa-418a-89e3-628da12bc99e	TCGA-55-A48Y	Bronchus and lung	Male	66	8	4	14	6	3	7	20	0	TCGA	Adenomas and Adenocarcinomas	69 years 182 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	0d980584-4484-4063-8243-c3cd67f6f588	TCGA-91-A4BD	Bronchus and lung	Male	64	7	4	14	4	3	7	20	0	TCGA	Adenomas and Adenocarcinomas	78 years 55 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	06fe7f3e-4edd-4150-981c-93787ea19b39	TCGA-55-8615	Bronchus and lung	Male	65	6	4	14	6	3	7	21	0	TCGA	Adenomas and Adenocarcinomas	67 years 315 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	ffb0c0b7-165e-4439-b3e6-62431f40b7fe	TCGA-44-3398	Bronchus and lung	Female	90	13	8	14	14	3	7	22	0	TCGA	Adenomas and Adenocarcinomas	77 years 268 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	927fc5e0-2c14-4c20-a49b-f10d8a1175c3	TCGA-L9-A8F4	Bronchus and lung	Female	66	7	4	14	6	3	7	20	0	TCGA	Adenomas and Adenocarcinomas	64 years 241 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+Case Actions	1ab7ad70-0f80-41d8-8efa-3baebc8223cc	TCGA-64-1680	Bronchus and lung	Male	82	8	4	28	6	3	7	21	0	TCGA	Adenomas and Adenocarcinomas	63 years 257 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+Case Actions	3a23cdb5-2327-45ac-b0b5-d4afe038c757	TCGA-05-4430	Bronchus and lung	Female	66	6	4	14	6	3	7	21	0	TCGA	Adenomas and Adenocarcinomas	59 years 335 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	not reported
+Case Actions	7b9479ff-23d6-4689-91f0-02efc94300f9	TCGA-44-A47A	Bronchus and lung	Female	65	6	4	14	6	3	7	20	0	TCGA	Adenomas and Adenocarcinomas	78 years 293 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	42d208bd-cd77-4bfb-ad53-9fc072a87393	TCGA-53-7813	Bronchus and lung	Female	66	6	4	14	6	3	7	21	0	TCGA	Adenomas and Adenocarcinomas	51 years 248 days	--	Alive	Bronchiolo-alveolar carcinoma, non-mucinous	not hispanic or latino	white
+Case Actions	9c894668-88f5-4308-a1c0-6b8acc6aaaec	TCGA-86-7711	Bronchus and lung	Male	75	10	6	14	8	3	7	22	0	TCGA	Adenomas and Adenocarcinomas	70 years 152 days	2 years 316 days	Dead	Adenocarcinoma, NOS	hispanic or latino	white
+Case Actions	c497f8c7-2fb5-44d9-bc7c-69cfd0b51b54	TCGA-62-A46R	Bronchus and lung	Female	65	6	4	14	6	3	7	20	0	TCGA	Adenomas and Adenocarcinomas	54 years 340 days	4 years 264 days	Dead	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+Case Actions	e8b7a103-644f-4865-92f8-80b053bd5e17	TCGA-35-3615	Bronchus and lung	Male	78	8	4	24	6	3	7	21	0	TCGA	Adenomas and Adenocarcinomas	57 years 257 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+Case Actions	501c987e-d1eb-48a9-89eb-72a5062c90b4	TCGA-78-7158	Bronchus and lung	Female	66	6	4	14	6	3	7	21	0	TCGA	Adenomas and Adenocarcinomas	59 years 193 days	179 days	Dead	Adenocarcinoma with mixed subtypes	not reported	white
+Case Actions	5ace9608-d38a-42f2-a877-ec7c9d211808	TCGA-78-8648	Bronchus and lung	Female	64	6	4	14	6	3	7	20	0	TCGA	Adenomas and Adenocarcinomas	58 years 259 days	3 years 114 days	Dead	Adenocarcinoma, NOS	not reported	not reported
+Case Actions	3b21b982-dba2-45f4-ad8d-21dc86fcaaa7	TCGA-55-A57B	Bronchus and lung	Female	64	6	4	14	6	3	7	20	0	TCGA	Adenomas and Adenocarcinomas	80 years 232 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	black or african american
+Case Actions	d15b7b29-c5c5-41d8-b83b-7cc12fe92820	TCGA-05-4415	Bronchus and lung	Male	65	6	4	14	6	3	7	21	0	TCGA	Adenomas and Adenocarcinomas	57 years 61 days	91 days	Dead	Adenocarcinoma with mixed subtypes	not reported	not reported
+Case Actions	659668e8-f0d9-4ff2-bbc8-9246f2ef49ab	TCGA-55-7281	Bronchus and lung	Female	68	7	4	14	8	3	7	21	0	TCGA	Adenomas and Adenocarcinomas	70 years 303 days	--	Alive	Adenocarcinoma, NOS	not reported	white
+Case Actions	6d72de06-232a-4983-a06c-eba6d82cb3f1	TCGA-55-1594	Bronchus and lung	Male	86	8	4	28	6	6	7	22	0	TCGA	Adenomas and Adenocarcinomas	68 years 171 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
