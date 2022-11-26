@@ -1,0 +1,550 @@
+	Case UUID	Case ID	Primary Site	Gender	SNV	Annotations	Age at diagnosis	Days to death	Vital Status	Primary Diagnosis	Ethnicity	Race
+0	b86b1616-20a2-4300-8daa-03dcc9938215	TCGA-44-7659	Bronchus and lung	Male	14	0	70 years 163 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+1	4c31127e-d095-4978-9dac-35153c27f6ed	TCGA-73-4666	Bronchus and lung	Female	14	0	52 years 81 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+2	a8d6694c-a213-4544-ac0b-63bce16d8f4e	TCGA-75-6203	Bronchus and lung	Female	14	0	--	--	Alive	Adenocarcinoma, NOS	not reported	not reported
+3	1b110eb4-a01d-4c50-ba18-77da4dedd549	TCGA-97-7552	Bronchus and lung	Male	14	0	70 years 11 days	--	Alive	Bronchio-alveolar carcinoma, mucinous	not hispanic or latino	white
+4	47062ad2-ba82-45c8-a871-bdea84f0c405	TCGA-MP-A4T7	Bronchus and lung	Female	14	0	75 years 210 days	167 days	Dead	Adenocarcinoma, NOS	not reported	not reported
+5	474b86d9-d897-467d-85d4-51dfa26ea107	TCGA-55-6642	Bronchus and lung	Male	14	0	63 years 97 days	--	Alive	Adenocarcinoma, NOS	not reported	white
+6	15340dd3-84ae-49fb-989a-eb212f3e73da	TCGA-49-6744	Bronchus and lung	Female	14	0	64 years 108 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	white
+7	fd5c44ef-ea50-4fba-9e8d-e371cf34ebdb	TCGA-78-7220	Bronchus and lung	Female	14	0	53 years 122 days	2 years 77 days	Dead	Adenocarcinoma with mixed subtypes	not reported	white
+8	fa0c7392-d485-41ac-bf7e-244a528209ae	TCGA-50-5044	Bronchus and lung	Female	14	0	72 years 269 days	1 year 259 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+9	99c35245-e1c8-4805-b7a5-f703bb506030	TCGA-MP-A4TC	Bronchus and lung	Male	14	0	77 years 347 days	74 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+10	f809e21d-5f2e-4f3b-a1aa-d6b8d463552a	TCGA-62-A46V	Bronchus and lung	Female	14	0	78 years 6 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+11	3199cfe5-3be3-43cd-a36b-5cf2c7a9929f	TCGA-50-5066	Bronchus and lung	Male	28	0	72 years 87 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	black or african american
+12	66ed89f6-8ba2-49d0-af0f-4b6ebf2381bf	TCGA-44-3919	Bronchus and lung	Female	28	0	71 years 149 days	2 years 296 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+13	ae702159-5b6a-41dd-868c-7540f9e1131c	TCGA-95-7039	Bronchus and lung	Female	14	0	54 years 258 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+14	5c266025-e590-457c-af86-4c2dc9797267	TCGA-62-8395	Bronchus and lung	Female	14	0	80 years 91 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+15	6cf49cf0-de4c-4c90-8358-eae19c6206b0	TCGA-35-4123	Bronchus and lung	Male	14	0	38 years 185 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+16	706420c4-8820-4b41-80d9-f3efd1d2a4f0	TCGA-MP-A4SV	Bronchus and lung	Male	14	0	67 years 45 days	7 years 64 days	Dead	Adenocarcinoma, NOS	not reported	not reported
+17	d8faa3a7-6b3f-4e69-8c88-184e41055bd7	TCGA-86-8280	Bronchus and lung	Female	14	0	54 years 254 days	--	Alive	Bronchiolo-alveolar carcinoma, non-mucinous	not hispanic or latino	white
+18	807cc7d2-6e3b-4f2d-9531-0da994eeeada	TCGA-55-8302	Bronchus and lung	Male	14	0	54 years 288 days	--	Alive	Adenocarcinoma, NOS	not reported	white
+19	cd902d08-215e-4bd0-88e4-4fd01ab43cbf	TCGA-86-8073	Bronchus and lung	Male	14	0	58 years 30 days	--	Alive	Bronchiolo-alveolar adenocarcinoma, NOS	not hispanic or latino	white
+20	16e64a1e-08b0-4c27-8c69-fa64551f8ca4	TCGA-78-8662	Bronchus and lung	Female	14	0	53 years 205 days	9 years 74 days	Dead	Adenocarcinoma, NOS	not reported	not reported
+21	52df074f-a402-4b78-9472-f8eb268efded	TCGA-NJ-A4YQ	Bronchus and lung	Female	14	0	69 years 225 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+22	bd4e9a9f-17f3-4d33-92fc-fcc45dd0e7b4	TCGA-49-4487	Bronchus and lung	Female	14	0	72 years 285 days	2 years 125 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+23	656a5eb4-e4a5-4d21-a800-3586f4d6588b	TCGA-91-8496	Bronchus and lung	Female	14	0	63 years 348 days	--	Alive	Bronchiolo-alveolar carcinoma, non-mucinous	not hispanic or latino	white
+24	fe3eeeb6-0db4-46d7-a020-55604d474c12	TCGA-78-7167	Bronchus and lung	Male	14	0	77 years 171 days	7 years 125 days	Dead	Papillary adenocarcinoma, NOS	not reported	white
+25	472337c2-a2fc-403a-8c17-69511193128b	TCGA-86-8056	Bronchus and lung	Female	14	0	63 years 359 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+26	e7d30bc2-42e8-49c5-a5b3-9f58411b007a	TCGA-78-7147	Bronchus and lung	Female	14	0	67 years 338 days	1 year 221 days	Dead	Adenocarcinoma, NOS	not reported	white
+27	84c3ba70-afa7-4b69-be69-7ec8d6022c56	TCGA-99-8025	Bronchus and lung	Female	14	0	72 years 336 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+28	009be09b-f9f6-43b7-8f45-4a648f8123ce	TCGA-67-3773	Bronchus and lung	Female	14	0	84 years 25 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+29	3bd6badb-27ff-4d8d-b206-4d28dc264862	TCGA-44-3396	Bronchus and lung	Female	14	0	74 years 45 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+30	a815619f-dbba-469f-a1f7-dfbd51cd86c5	TCGA-L9-A50W	Bronchus and lung	Male	14	0	75 years 21 days	1 year 77 days	Dead	Adenocarcinoma with mixed subtypes	not hispanic or latino	black or african american
+31	27fceec1-3298-4cdd-a4e6-8f5cf34604f0	TCGA-44-5643	Bronchus and lung	Male	14	0	53 years 68 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+32	abab925c-bef3-4072-b9c4-40f808744593	TCGA-95-7944	Bronchus and lung	Male	14	0	71 years 71 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+33	e00a60d7-4253-443d-a187-680ad0931349	TCGA-62-A46S	Bronchus and lung	Male	14	0	73 years 162 days	4 years 192 days	Dead	Papillary adenocarcinoma, NOS	not hispanic or latino	white
+34	07b5663f-9a54-4462-b6c1-6fc8116b8714	TCGA-44-2655	Bronchus and lung	Female	28	0	65 years 113 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+35	a244a99a-d7cc-4fb1-bc76-b66886481621	TCGA-05-4417	Bronchus and lung	Female	14	0	51 years 153 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	not reported
+36	c6d78e27-e510-4f57-abae-19efa6105a8d	TCGA-49-4494	Bronchus and lung	Male	14	0	77 years 263 days	2 years 351 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+37	ce15f31f-2bad-4485-96fa-495bfa262e66	TCGA-05-4403	Bronchus and lung	Male	14	0	76 years 122 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	not reported
+38	77c4dbb2-eceb-4e0d-bcde-63dc817d5f35	TCGA-55-7903	Bronchus and lung	Male	14	0	64 years 133 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+39	d2824e6d-3784-45c2-9b0f-52b17356b5da	TCGA-75-5147	Bronchus and lung	Female	14	0	--	--	Alive	Bronchiolo-alveolar carcinoma, non-mucinous	not reported	not reported
+40	742e0e32-25b5-4d41-8bf5-364b571cfd93	TCGA-62-8394	Bronchus and lung	Female	14	0	65 years 17 days	139 days	Dead	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+41	93766482-2f20-4c8f-bbd8-bdd203c37d5a	TCGA-75-5126	Bronchus and lung	Female	14	0	--	--	Alive	Papillary adenocarcinoma, NOS	not reported	not reported
+42	3ed05070-6633-4de5-9f72-090f93aa2e4d	TCGA-55-8506	Bronchus and lung	Female	14	0	62 years 205 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+43	e01e4fb3-236a-4d16-9073-555876b688e9	TCGA-86-A4JF	Bronchus and lung	Male	14	0	56 years 37 days	2 years 7 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+44	b2bc53d6-ef78-4ae9-a6b5-1c7cad9a43eb	TCGA-55-7910	Bronchus and lung	Female	14	0	50 years 27 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+45	bf15f7ad-9d92-473b-91d1-f24aa373ab97	TCGA-44-2659	Bronchus and lung	Female	24	0	65 years 67 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+46	0b15fcb8-1fb7-497e-80b9-d3db66a3c0a2	TCGA-55-7284	Bronchus and lung	Male	14	0	74 years 59 days	243 days	Dead	Bronchiolo-alveolar carcinoma, non-mucinous	not hispanic or latino	white
+47	42ca54fc-c1ae-41cd-bca1-7fe9810db460	TCGA-44-2656	Bronchus and lung	Male	84	0	59 years 217 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+48	c6b680e3-d96e-4fc7-8053-77454b7a14fa	TCGA-97-A4M7	Bronchus and lung	Male	14	0	74 years 34 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+49	482eb2a7-6fed-4e4c-b1b6-14d6d869f855	TCGA-86-8074	Bronchus and lung	Female	14	0	62 years 217 days	--	Alive	Papillary adenocarcinoma, NOS	not hispanic or latino	white
+50	3e1df30f-744a-41e9-a169-7dbbff66622e	TCGA-69-7974	Bronchus and lung	Female	14	0	54 years 298 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+51	d63c028b-b6d3-49ce-b63e-261eed3b86df	TCGA-55-8507	Bronchus and lung	Male	14	0	53 years 32 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+52	6845099a-b2c9-48d8-b856-9903d39bb92e	TCGA-55-8514	Bronchus and lung	Female	14	0	70 years 41 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+53	a534b96b-1665-444a-9308-e610f2f0e510	TCGA-44-7660	Bronchus and lung	Male	14	0	72 years 296 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+54	36bf02f8-c1c8-49f9-a417-adf88a205c70	TCGA-05-4426	Bronchus and lung	Male	14	0	71 years 152 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	not reported
+55	114a34c0-983b-4d90-9181-1823c9637a63	TCGA-50-6590	Bronchus and lung	Female	14	0	72 years 146 days	3 years 193 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+56	2923e404-38f2-437a-b57e-23401fbe0273	TCGA-86-8279	Bronchus and lung	Male	14	0	46 years 231 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+57	7be86a90-6da8-4c01-8a7a-bc5cfef9894f	TCGA-78-7539	Bronchus and lung	Female	14	0	75 years 52 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	white
+58	15f12d2c-b834-4bfc-b526-f03bf85bfe96	TCGA-MP-A4SW	Bronchus and lung	Male	14	0	53 years 282 days	4 years 317 days	Dead	Adenocarcinoma, NOS	not reported	white
+59	54a9cc9e-3eee-4caa-9f33-4ea64a2999ba	TCGA-53-7624	Bronchus and lung	Female	14	0	40 years 184 days	2 years 313 days	Dead	Adenocarcinoma, NOS	hispanic or latino	white
+60	055e9a43-3c00-4110-a303-e4407676bec0	TCGA-55-7576	Bronchus and lung	Male	14	0	54 years 194 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+61	0075437e-ba1a-46be-86d6-9773209a2b5e	TCGA-62-A471	Bronchus and lung	Male	14	0	64 years 313 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+62	3bc7026f-73f2-418b-bd62-f4768582b790	TCGA-95-7567	Bronchus and lung	Male	14	0	61 years 157 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+63	389f78a3-fa0b-406c-9434-aa0298341a8c	TCGA-95-A4VN	Bronchus and lung	Female	14	0	62 years 282 days	--	Alive	Solid carcinoma, NOS	not hispanic or latino	white
+64	8cc6bcec-65df-46a9-a88c-09762a132857	TCGA-MP-A4SY	Bronchus and lung	Male	14	0	61 years 168 days	4 years 40 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+65	6bffe800-ec2b-4638-9333-97fe85dcd91c	TCGA-49-6767	Bronchus and lung	Female	14	0	46 years 307 days	--	Alive	Adenocarcinoma, NOS	not reported	white
+66	0d0d83d9-d558-4d38-977b-6f1b2471beda	TCGA-86-7955	Bronchus and lung	Male	14	0	62 years 127 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+67	86dac334-f30e-438e-810a-8e45f69dbb7e	TCGA-MP-A4TF	Bronchus and lung	Female	14	0	58 years 203 days	336 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+68	d7ae8efb-aa4d-4807-9772-55b0a28ccd5c	TCGA-62-A46O	Bronchus and lung	Female	14	0	65 years 309 days	3 years 359 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+69	54254f5a-50e8-4150-a9b7-56a0470d2a56	TCGA-78-7143	Bronchus and lung	Female	0	0	62 years 28 days	13 years 213 days	Dead	Bronchiolo-alveolar carcinoma, non-mucinous	not reported	white
+70	383d1253-349f-43b3-bebd-9f1d1cf14b3d	TCGA-MP-A4TD	Bronchus and lung	Male	14	0	71 years 51 days	307 days	Dead	Adenocarcinoma, NOS	not reported	white
+71	962fd4e7-9199-43d9-abce-e3dfa46da62c	TCGA-55-8510	Bronchus and lung	Female	14	0	55 years 322 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+72	fd3fc273-c035-40ea-a459-ff4806f5d592	TCGA-64-5774	Bronchus and lung	Male	14	0	60 years 144 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+73	c0c879f7-c332-4d31-9f7e-a3bf361b36ee	TCGA-97-A4M1	Bronchus and lung	Female	14	0	52 years 279 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+74	5d2a9a4f-678d-4089-a8c5-81a5cb696629	TCGA-35-5375	Bronchus and lung	Male	14	0	61 years 348 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+75	488646a1-0bdb-45f8-8c30-bef006924511	TCGA-75-7027	Bronchus and lung	Male	14	0	--	--	Alive	Adenocarcinoma, NOS	not reported	not reported
+76	5d5cc436-6e57-4d23-a164-7f5153c2e666	TCGA-44-6778	Bronchus and lung	Male	14	0	59 years 176 days	--	Alive	Adenocarcinoma, NOS	not reported	black or african american
+77	66763a0c-6cda-4832-a0cc-e7b496d78eaa	TCGA-05-4424	Bronchus and lung	Male	14	0	70 years 122 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	not reported
+78	f1f80dd2-891d-46dd-a3e0-f007628cb515	TCGA-4B-A93V	Bronchus and lung	Female	14	0	52 years 42 days	300 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+79	83e38dbd-edab-47f2-b19f-6ea38fc6bece	TCGA-44-8120	Bronchus and lung	Male	14	0	58 years 4 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+80	cbbea9f1-396a-4bf3-b67c-2cac3394dceb	TCGA-44-6779	Bronchus and lung	Female	14	0	50 years 207 days	1 year 135 days	Dead	Adenocarcinoma, NOS	not reported	white
+81	96dfa373-4597-49a5-942e-d9b4dc5d28fc	TCGA-49-AAQV	Bronchus and lung	Female	14	0	63 years 360 days	1 year 312 days	Dead	Adenocarcinoma with mixed subtypes	not hispanic or latino	black or african american
+82	368e23f0-e573-4547-bf5a-14080baf737b	TCGA-50-5930	Bronchus and lung	Male	14	0	47 years 72 days	282 days	Dead	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+83	7a111b4f-46e9-4e34-8024-0b9fdc5cbcd8	TCGA-MP-A4TH	Bronchus and lung	Female	14	0	70 years 192 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+84	0a1eea76-e19a-4547-9b24-abf7051cc4db	TCGA-86-8674	Bronchus and lung	Male	14	0	50 years 217 days	--	Alive	Papillary adenocarcinoma, NOS	not hispanic or latino	white
+85	c95957a7-1a1a-4c8d-bb61-7c99b500f224	TCGA-50-5946	Bronchus and lung	Male	28	0	62 years 207 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	white
+86	30f276a8-3a4b-4de8-aea0-7f605d100401	TCGA-93-A4JP	Bronchus and lung	Male	42	0	64 years 244 days	--	Alive	Papillary adenocarcinoma, NOS	not hispanic or latino	asian
+87	e739b4f7-ae46-45c6-9013-9571cbadaf99	TCGA-93-7348	Bronchus and lung	Female	14	0	75 years 63 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+88	5813997a-d7dc-4f7c-8d4b-e979832168a9	TCGA-49-AAR3	Bronchus and lung	Male	14	0	69 years 267 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+89	f17d3463-af6c-42c2-a8e9-fae45f69286f	TCGA-55-6712	Bronchus and lung	Male	14	0	--	171 days	Dead	Adenocarcinoma, NOS	not reported	white
+90	c0e263eb-1a83-4dc8-8abe-3dd2a59bae1b	TCGA-86-8672	Bronchus and lung	Male	14	0	59 years 133 days	19 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+91	2de1ba51-eae1-4a54-b7cd-d6d739fdc39d	TCGA-78-7149	Bronchus and lung	Male	14	0	71 years 353 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	white
+92	2fabeb98-05e3-4f55-97f5-fbc675e25a3d	TCGA-62-8398	Bronchus and lung	Male	14	0	55 years 109 days	1 year 79 days	Dead	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+93	36ad7fc7-0cc1-4f01-aef1-f89b3cb4feac	TCGA-67-3774	Bronchus and lung	Female	28	0	73 years 41 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+94	dd63d0fd-e24b-40a5-88c5-7d3d4106631e	TCGA-97-A4M0	Bronchus and lung	Female	14	0	60 years 291 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+95	9ca1a26c-82e0-48b3-b3bb-2ed57086eeb1	TCGA-97-8552	Bronchus and lung	Female	14	0	55 years 243 days	--	Alive	Bronchiolo-alveolar carcinoma, non-mucinous	not hispanic or latino	white
+96	eeab558b-8d1e-4843-861d-dbfb06061758	TCGA-67-3770	Bronchus and lung	Female	28	0	70 years 91 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+97	35cb7841-9b09-465a-90c5-e3b8a9faad49	TCGA-55-6982	Bronchus and lung	Female	14	0	--	2 years 265 days	Dead	Adenocarcinoma, NOS	not reported	white
+98	a905d275-9283-4fa6-bbbf-46019bd1bcb7	TCGA-78-8655	Bronchus and lung	Female	14	0	77 years 255 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	not reported
+99	a7911bdc-13f1-434a-bfa3-f8ba55d15846	TCGA-55-7574	Bronchus and lung	Female	14	0	64 years 327 days	2 years 265 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+0	301ca6e8-7981-4264-b4ae-38f56f7f9225	TCGA-MP-A4T4	Bronchus and lung	Female	14	0	68 years 215 days	7 years 61 days	Dead	Adenocarcinoma, NOS	not reported	white
+1	ccda26c1-a6d6-4317-8cf8-8a87e15ce12e	TCGA-44-2662	Bronchus and lung	Male	56	0	65 years 273 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+2	5c06d97f-2aaa-43de-b085-09d7829356ba	TCGA-80-5608	Bronchus and lung	Female	14	0	--	--	Alive	Adenocarcinoma, NOS	not reported	not reported
+3	6dfd47d2-831a-4386-9051-f78199a16bb5	TCGA-05-4397	Bronchus and lung	Male	14	0	65 years 92 days	2 years 1 day	Dead	Adenocarcinoma with mixed subtypes	not reported	not reported
+4	9e640ff7-996e-427b-b56c-519a1e23baab	TCGA-86-A4P7	Bronchus and lung	Female	14	0	63 years 320 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+5	5f4934be-eee3-40e1-8838-38103badc898	TCGA-MP-A4T6	Bronchus and lung	Female	14	0	76 years 234 days	4 years 329 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+6	e0a19099-5d25-40df-ad73-6260df3a1b32	TCGA-05-5715	Bronchus and lung	Female	14	0	69 years 181 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	not reported
+7	ff07ea4b-4e50-410d-99d6-96a351dad7b1	TCGA-55-7570	Bronchus and lung	Male	14	0	60 years 303 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+8	abd6647b-d2eb-404d-8283-443e92addf55	TCGA-55-7995	Bronchus and lung	Female	14	0	73 years 174 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+9	aebd0313-23be-46a8-abc6-b16c531c3a8e	TCGA-17-Z001	Bronchus and lung	--	14	0	--	--		--	--	--
+10	07119baf-64a7-454c-b1b0-c769b506a63d	TCGA-17-Z055	Bronchus and lung	--	14	0	--	--		--	--	--
+11	494d50b6-578e-441b-8195-4b4d26c0d810	TCGA-17-Z016	Bronchus and lung	--	14	0	--	--		--	--	--
+12	9b714a42-62e8-4b33-947e-6c4850725afd	TCGA-17-Z015	Bronchus and lung	--	14	0	--	--		--	--	--
+13	edd05f61-35f8-4133-a579-f9f32dff3bb8	TCGA-17-Z012	Bronchus and lung	--	0	0	--	--		--	--	--
+14	f86e1da7-bad6-4eb8-ae4c-fa9421308d47	TCGA-17-Z043	Bronchus and lung	--	14	0	--	--		--	--	--
+15	cc3d9750-7ce0-489f-86d4-8017b7ebed29	TCGA-50-5055	Bronchus and lung	Female	14	0	79 years 134 days	5 years 4 days	Dead	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+16	51e49548-1ad0-4c83-ae8a-2fa95bf4712a	TCGA-17-Z054	Bronchus and lung	--	14	0	--	--		--	--	--
+17	2dca3588-51e1-48f7-8c9b-7b7e53c3fb33	TCGA-17-Z053	Bronchus and lung	--	14	0	--	--		--	--	--
+18	98ee294a-46ed-4572-bdd4-a932c3498a25	TCGA-MP-A4TA	Bronchus and lung	Female	14	0	75 years 120 days	2 years 220 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+19	c390b6ad-14c8-49ea-9b38-798c9fad5b62	TCGA-17-Z003	Bronchus and lung	--	14	0	--	--		--	--	--
+20	4ad63dac-76a7-4527-abce-d7a0184e8739	TCGA-91-8497	Bronchus and lung	Female	14	0	75 years 239 days	1 year 69 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+21	25c9f984-1a5a-4cca-9ad1-39f759ea7174	TCGA-17-Z039	Bronchus and lung	--	0	0	--	--		--	--	--
+22	0147edcf-0ca5-4136-bd01-43d05e2843f4	TCGA-17-Z038	Bronchus and lung	--	0	0	--	--		--	--	--
+23	a16d7bf7-07b7-4320-969c-fc68dd564a92	TCGA-17-Z033	Bronchus and lung	--	14	0	--	--		--	--	--
+24	62633a11-db23-481f-add3-853b2acac1bf	TCGA-17-Z045	Bronchus and lung	--	14	0	--	--		--	--	--
+25	c43c8eea-7014-4abe-b805-397a9062d3e0	TCGA-17-Z031	Bronchus and lung	--	14	0	--	--		--	--	--
+26	595fc3ad-f603-421b-b130-52f1f617050b	TCGA-NJ-A4YF	Bronchus and lung	Female	14	0	50 years 322 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	black or african american
+27	61cd3ef8-eee4-4266-b01d-09338c89740a	TCGA-17-Z052	Bronchus and lung	--	14	0	--	--		--	--	--
+28	7c4ed533-ee66-48be-a84b-ff8607742818	TCGA-MP-A4T8	Bronchus and lung	Male	14	0	68 years 232 days	161 days	Dead	Adenocarcinoma, NOS	not reported	not reported
+29	d6a08727-affd-4a59-837b-ea71741d7f09	TCGA-17-Z049	Bronchus and lung	--	14	0	--	--		--	--	--
+30	adbaba9c-5efc-4130-82f6-8055eab13795	TCGA-55-A494	Bronchus and lung	Female	14	0	61 years 260 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+31	243c6fd6-5516-46e5-bcef-292d93d7b7d3	TCGA-69-7764	Bronchus and lung	Male	14	0	75 years 300 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+32	4efc2dac-6330-4b7a-a529-a27285f5fc23	TCGA-75-7031	Bronchus and lung	Female	14	0	--	--	Alive	Adenocarcinoma, NOS	not reported	not reported
+33	fddc4d29-1ae8-451d-a13e-8ef6492be201	TCGA-17-Z030	Bronchus and lung	--	14	0	--	--		--	--	--
+34	daf0e08e-1738-43f8-874a-b37d79cbe3a7	TCGA-78-7536	Bronchus and lung	Male	14	0	69 years 356 days	244 days	Dead	Adenocarcinoma, NOS	not reported	white
+35	19ca36e6-2154-4224-89b1-117a4a4407f6	TCGA-17-Z050	Bronchus and lung	--	14	0	--	--		--	--	--
+36	81b71cff-da58-47cf-ad00-0a42489a7a0b	TCGA-17-Z017	Bronchus and lung	--	14	0	--	--		--	--	--
+37	e44e279b-103e-436e-8988-1139b000bdfd	TCGA-17-Z022	Bronchus and lung	--	14	0	--	--		--	--	--
+38	733087d2-98ed-4ac7-8b48-98f0fe1c4c0f	TCGA-17-Z034	Bronchus and lung	--	0	0	--	--		--	--	--
+39	46592b7b-6968-42a6-83af-0917c9f4a9a5	TCGA-78-7535	Bronchus and lung	Male	14	0	45 years 135 days	2 years 219 days	Dead	Adenocarcinoma, NOS	not reported	white
+40	e998a607-ac73-4849-afaa-57eee49cf051	TCGA-17-Z000	Bronchus and lung	--	14	0	--	--		--	--	--
+41	d45aee46-838e-44af-8422-46710b3240a8	TCGA-50-8457	Bronchus and lung	Female	14	0	63 years 45 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	black or african american
+42	3d0cbd55-4eda-4c52-93cc-a74381ea7c59	TCGA-17-Z035	Bronchus and lung	--	0	0	--	--		--	--	--
+43	175cb088-9b10-4fa9-95c0-7837fdc7bcf9	TCGA-17-Z037	Bronchus and lung	--	14	0	--	--		--	--	--
+44	f7f9f522-de88-4f9c-8ba4-7be3726faaf8	TCGA-MP-A4TK	Bronchus and lung	Female	14	0	56 years 127 days	1 year 217 days	Dead	Adenocarcinoma, NOS	not reported	not reported
+45	67b5fb5d-2484-4aa5-aa7c-c6c5ecbc91b2	TCGA-17-Z048	Bronchus and lung	--	14	0	--	--		--	--	--
+46	1f0a5312-0590-4230-9da9-fd0cfe693586	TCGA-55-7911	Bronchus and lung	Female	14	0	70 years 179 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+47	392ca7f3-d52e-4aa7-a9ba-4c7d9aa6401c	TCGA-17-Z056	Bronchus and lung	--	14	0	--	--		--	--	--
+48	b5cdf68a-9903-4f82-9017-ab88d2b73d4f	TCGA-17-Z018	Bronchus and lung	--	14	0	--	--		--	--	--
+49	abf6eb5f-fa06-4032-8cff-c8522b0a3c9a	TCGA-17-Z047	Bronchus and lung	--	14	0	--	--		--	--	--
+50	67a2593d-b986-4f84-a51c-7f2fb12e54ad	TCGA-17-Z044	Bronchus and lung	--	14	0	--	--		--	--	--
+51	fae64c9d-5204-4dc6-a561-bf59506aabcc	TCGA-17-Z029	Bronchus and lung	--	0	0	--	--		--	--	--
+52	4999df33-3a47-4feb-a264-c5d71b271d8c	TCGA-17-Z024	Bronchus and lung	--	0	0	--	--		--	--	--
+53	d020e685-0435-4b0a-b03f-45853e1c6eed	TCGA-17-Z032	Bronchus and lung	--	14	0	--	--		--	--	--
+54	94ee639e-3cb4-4943-b5f1-a89eb902153c	TCGA-17-Z041	Bronchus and lung	--	14	0	--	--		--	--	--
+55	654affac-f8ed-40bb-9f9f-a293227b06a6	TCGA-17-Z010	Bronchus and lung	--	14	0	--	--		--	--	--
+56	a5d0c704-2888-4cff-805e-4bbe4636117c	TCGA-17-Z019	Bronchus and lung	--	14	0	--	--		--	--	--
+57	c05b1a5c-2f6d-448a-94c8-58cce3d34b37	TCGA-17-Z014	Bronchus and lung	--	12	0	--	--		--	--	--
+58	257c9416-e86a-4c71-9dee-7212c2e56351	TCGA-17-Z060	Bronchus and lung	--	12	0	--	--		--	--	--
+59	2cd8ea73-cb3f-4b17-9b97-fa12eb03b85b	TCGA-55-8299	Bronchus and lung	Female	14	0	61 years 346 days	1 year 104 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+60	e43a2b72-35c6-4466-9007-ce96caf77ea8	TCGA-55-A493	Bronchus and lung	Female	14	0	54 years 304 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+61	e21e2af3-dc71-41fa-94ba-7a7929f47d90	TCGA-J2-A4AG	Bronchus and lung	Female	14	0	66 years 118 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+62	4ef872e1-82c9-4939-9248-41ed9d3085b2	TCGA-78-7145	Bronchus and lung	Female	14	0	52 years 87 days	2 years 96 days	Dead	Adenocarcinoma, NOS	not reported	white
+63	03c3409a-9d16-41d0-9e26-f9fc2547a4c8	TCGA-73-4677	Bronchus and lung	Male	14	0	74 years 353 days	38 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+64	9759bf3a-74ff-433f-99bb-f9406f222ed2	TCGA-99-8028	Bronchus and lung	Female	14	0	50 years 280 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+65	42432463-8e92-4f25-b72a-f03953527aa5	TCGA-O1-A52J	Bronchus and lung	Female	14	0	74 years 195 days	4 years 337 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+66	8f04660a-2efb-4947-9eab-375066b9eb33	TCGA-MP-A5C7	Bronchus and lung	Female	14	0	76 years 256 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+67	e5cb0c86-8fe2-4cfc-b32b-e8ec3839ffc4	TCGA-55-6985	Bronchus and lung	Female	14	0	58 years 197 days	--	Alive	Adenocarcinoma, NOS	not reported	white
+68	95fa64b0-91e1-4427-b81a-53c47a053563	TCGA-55-8205	Bronchus and lung	Female	14	0	76 years 304 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+69	9582b436-145b-4f84-8f7f-8b39b8254cc1	TCGA-99-8033	Bronchus and lung	Female	14	0	74 years 314 days	1 year 291 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+70	bab43415-d413-40be-a4c0-2c40a52afe6a	TCGA-44-2668	Bronchus and lung	Male	56	0	51 years 229 days	2 years 31 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+71	079ae0b3-b64b-4b8e-ab7d-225b8046568c	TCGA-86-7954	Bronchus and lung	Female	14	0	68 years 225 days	--	Alive	Bronchiolo-alveolar adenocarcinoma, NOS	not hispanic or latino	white
+72	7b89166e-c5b8-481b-aa70-495141499b91	TCGA-86-8669	Bronchus and lung	Male	14	0	64 years 67 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+73	205759a6-6391-491b-9857-0080c3a5871e	TCGA-75-5125	Bronchus and lung	Male	14	0	--	5 years 201 days	Dead	Adenocarcinoma, NOS	not reported	not reported
+74	b61abdfd-b7a0-4e1a-b570-d1eaecad3a9e	TCGA-49-4506	Bronchus and lung	Female	14	0	68 years 295 days	2 years 269 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+75	7a0ea814-f0de-4bc4-a81a-daa000559369	TCGA-50-5933	Bronchus and lung	Male	14	0	72 years 79 days	6 years 202 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+76	4addf05f-3668-4b3f-a17f-c0227329ca52	TCGA-05-4249	Bronchus and lung	Male	14	0	67 years 61 days	--	Alive	Adenocarcinoma, NOS	not reported	not reported
+77	467d96d7-4a42-4116-8c32-0e4b34f96d8a	TCGA-86-8358	Bronchus and lung	Male	12	0	44 years 338 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+78	c1a01e8c-1f7e-4e24-bfad-90b73f88e992	TCGA-78-7160	Bronchus and lung	Male	14	0	61 years 105 days	1 year 332 days	Dead	Adenocarcinoma with mixed subtypes	not reported	white
+79	ccecce70-dd54-4c5b-bf9f-ca87d290cb00	TCGA-67-6216	Bronchus and lung	Female	14	0	57 years 148 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+80	c583fdd1-8cd2-4c15-a23e-0644261f65da	TCGA-64-1681	Bronchus and lung	Female	14	0	61 years 245 days	3 years 72 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+81	3afa5045-a1ee-4a07-8aad-2e252b2f7d7a	TCGA-49-AAR0	Bronchus and lung	Male	14	0	57 years 113 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+82	12c07138-e3fa-418a-89e3-628da12bc99e	TCGA-55-A48Y	Bronchus and lung	Male	14	0	69 years 182 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+83	0d980584-4484-4063-8243-c3cd67f6f588	TCGA-91-A4BD	Bronchus and lung	Male	14	0	78 years 55 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+84	06fe7f3e-4edd-4150-981c-93787ea19b39	TCGA-55-8615	Bronchus and lung	Male	14	0	67 years 315 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+85	ffb0c0b7-165e-4439-b3e6-62431f40b7fe	TCGA-44-3398	Bronchus and lung	Female	14	0	77 years 268 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+86	927fc5e0-2c14-4c20-a49b-f10d8a1175c3	TCGA-L9-A8F4	Bronchus and lung	Female	14	0	64 years 241 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+87	1ab7ad70-0f80-41d8-8efa-3baebc8223cc	TCGA-64-1680	Bronchus and lung	Male	28	0	63 years 257 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+88	3a23cdb5-2327-45ac-b0b5-d4afe038c757	TCGA-05-4430	Bronchus and lung	Female	14	0	59 years 335 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	not reported
+89	7b9479ff-23d6-4689-91f0-02efc94300f9	TCGA-44-A47A	Bronchus and lung	Female	14	0	78 years 293 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+90	42d208bd-cd77-4bfb-ad53-9fc072a87393	TCGA-53-7813	Bronchus and lung	Female	14	0	51 years 248 days	--	Alive	Bronchiolo-alveolar carcinoma, non-mucinous	not hispanic or latino	white
+91	9c894668-88f5-4308-a1c0-6b8acc6aaaec	TCGA-86-7711	Bronchus and lung	Male	14	0	70 years 152 days	2 years 316 days	Dead	Adenocarcinoma, NOS	hispanic or latino	white
+92	c497f8c7-2fb5-44d9-bc7c-69cfd0b51b54	TCGA-62-A46R	Bronchus and lung	Female	14	0	54 years 340 days	4 years 264 days	Dead	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+93	e8b7a103-644f-4865-92f8-80b053bd5e17	TCGA-35-3615	Bronchus and lung	Male	24	0	57 years 257 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+94	501c987e-d1eb-48a9-89eb-72a5062c90b4	TCGA-78-7158	Bronchus and lung	Female	14	0	59 years 193 days	179 days	Dead	Adenocarcinoma with mixed subtypes	not reported	white
+95	5ace9608-d38a-42f2-a877-ec7c9d211808	TCGA-78-8648	Bronchus and lung	Female	14	0	58 years 259 days	3 years 114 days	Dead	Adenocarcinoma, NOS	not reported	not reported
+96	3b21b982-dba2-45f4-ad8d-21dc86fcaaa7	TCGA-55-A57B	Bronchus and lung	Female	14	0	80 years 232 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	black or african american
+97	d15b7b29-c5c5-41d8-b83b-7cc12fe92820	TCGA-05-4415	Bronchus and lung	Male	14	0	57 years 61 days	91 days	Dead	Adenocarcinoma with mixed subtypes	not reported	not reported
+98	659668e8-f0d9-4ff2-bbc8-9246f2ef49ab	TCGA-55-7281	Bronchus and lung	Female	14	0	70 years 303 days	--	Alive	Adenocarcinoma, NOS	not reported	white
+99	6d72de06-232a-4983-a06c-eba6d82cb3f1	TCGA-55-1594	Bronchus and lung	Male	28	0	68 years 171 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+0	83a6ed20-b3cf-48b9-8ed3-a080cd4951fa	TCGA-55-6968	Bronchus and lung	Male	14	0	61 years 64 days	3 years 198 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+1	7fd03220-531e-4ef8-beca-e9703e8c0ae1	TCGA-NJ-A4YG	Bronchus and lung	Male	14	0	65 years 71 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	white
+2	f2d8b332-2f03-46e5-a9d5-f163972e5fa7	TCGA-86-8668	Bronchus and lung	Female	14	0	61 years 103 days	--	Alive	Bronchio-alveolar carcinoma, mucinous	not hispanic or latino	white
+3	3fe8f8e4-5396-4362-82f5-366e2fb69db2	TCGA-05-5428	Bronchus and lung	Male	14	0	57 years 242 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	not reported
+4	562a562b-ca03-44ac-b282-b51b457d8dae	TCGA-62-A46Y	Bronchus and lung	Female	14	0	70 years 338 days	1 year 49 days	Dead	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+5	78ae716b-0ca5-4c01-a053-d41288385fcd	TCGA-75-5122	Bronchus and lung	Male	14	0	--	--	Dead	Adenocarcinoma, NOS	not reported	not reported
+6	bcf2e591-9dae-440f-bd03-5f27c57db741	TCGA-69-7765	Bronchus and lung	Male	14	0	56 years 171 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	black or african american
+7	16d3c1c1-cf3a-44b6-b564-8ae5464b243d	TCGA-55-A48Z	Bronchus and lung	Female	14	0	60 years 141 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+8	32592562-11fa-435a-b40b-2b242bae53aa	TCGA-75-6214	Bronchus and lung	Female	14	0	--	3 years 20 days	Dead	Adenocarcinoma, NOS	not reported	not reported
+9	44adf4cb-2829-4153-80fd-a8b7ee0e654a	TCGA-35-4122	Bronchus and lung	Male	14	0	69 years 289 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+10	cc68632c-b1e3-491b-b562-9468e2d1c101	TCGA-86-7713	Bronchus and lung	Male	14	0	70 years 224 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+11	7f6455e8-fa3d-4452-acb2-8c9995073072	TCGA-44-7667	Bronchus and lung	Female	14	0	49 years 165 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+12	5730b09c-a69f-425a-8af9-61172f9dfe56	TCGA-17-Z020	Bronchus and lung	--	14	0	--	--		--	--	--
+13	dcf8e752-e95c-4087-a0f5-c041787c8569	TCGA-17-Z011	Bronchus and lung	--	14	0	--	--		--	--	--
+14	a8f3da11-890c-4fff-bfc5-d99357dc4e46	TCGA-17-Z051	Bronchus and lung	--	14	0	--	--		--	--	--
+15	3b89ac82-63f6-41b9-a03d-34b9ffc1550d	TCGA-L9-A443	Bronchus and lung	Female	14	0	63 years 52 days	193 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+16	77bb204d-4e68-4c93-905f-9ef4c53b1ce2	TCGA-17-Z059	Bronchus and lung	--	14	0	--	--		--	--	--
+17	b3c31fdc-26a7-4b39-8127-8006307eb1f5	TCGA-17-Z040	Bronchus and lung	--	0	0	--	--		--	--	--
+18	8b3a111a-aa46-41b9-bbec-28f4290da939	TCGA-17-Z026	Bronchus and lung	--	14	0	--	--		--	--	--
+19	31ff69b5-9e58-44da-8326-bdfc7ee495c4	TCGA-97-A4M6	Bronchus and lung	Female	14	0	45 years 328 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+20	79684460-f74c-4954-80fa-b418827bf2ef	TCGA-17-Z057	Bronchus and lung	--	14	0	--	--		--	--	--
+21	abb86d09-d4ff-41f4-ba22-185dc48347c9	TCGA-17-Z025	Bronchus and lung	--	14	0	--	--		--	--	--
+22	53d7b0c2-b8ed-43c8-9ffd-a586e0a68086	TCGA-17-Z006	Bronchus and lung	--	0	0	--	--		--	--	--
+23	bebd0025-74e2-451b-93b3-86f82df43573	TCGA-MP-A4TE	Bronchus and lung	Male	14	0	56 years 173 days	2 years 166 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+24	f4b83449-7d0e-49f3-be53-81cf0d485ed8	TCGA-17-Z061	Bronchus and lung	--	14	0	--	--		--	--	--
+25	5202458b-c38a-47c0-a0ba-5f1a59a762a0	TCGA-49-AARO	Bronchus and lung	Female	14	0	39 years 283 days	--	Alive	Papillary adenocarcinoma, NOS	not hispanic or latino	black or african american
+26	3650e5b2-ef58-4b14-97b2-8698f2c160f8	TCGA-17-Z058	Bronchus and lung	--	14	0	--	--		--	--	--
+27	4432a02d-91de-4a7d-875f-684865f3c95d	TCGA-17-Z027	Bronchus and lung	--	14	0	--	--		--	--	--
+28	cf411fc0-0cce-42d2-ae79-24de1a105c05	TCGA-17-Z023	Bronchus and lung	--	14	0	--	--		--	--	--
+29	3037e91e-213e-43e3-92e4-2fcd68988bde	TCGA-17-Z007	Bronchus and lung	--	14	0	--	--		--	--	--
+30	6313c7cb-5631-42b2-93e2-592f86e84551	TCGA-17-Z036	Bronchus and lung	--	14	0	--	--		--	--	--
+31	a56d2b48-375d-4193-91a9-f589c39523fb	TCGA-17-Z021	Bronchus and lung	--	14	0	--	--		--	--	--
+32	bd693ad9-6ce9-469a-a3f9-c2779c32d6bc	TCGA-17-Z046	Bronchus and lung	--	0	0	--	--		--	--	--
+33	44d8c859-4b7a-4e9d-bffc-0de0e6afdcc4	TCGA-69-8253	Bronchus and lung	Female	14	0	59 years 222 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	black or african american
+34	b2c6939b-d8ec-4a07-8ea6-06c4553ee446	TCGA-17-Z002	Bronchus and lung	--	14	0	--	--		--	--	--
+35	87eeaf49-3c02-402f-9ae4-3627391e7749	TCGA-17-Z028	Bronchus and lung	--	14	0	--	--		--	--	--
+36	4b5ff30e-65fc-4434-b174-9d699594c658	TCGA-17-Z005	Bronchus and lung	--	14	0	--	--		--	--	--
+37	3136b041-24b9-42c5-b4a8-70f04c63a177	TCGA-17-Z009	Bronchus and lung	--	14	0	--	--		--	--	--
+38	0d96def2-cf0a-4659-94e5-f08744c57cc6	TCGA-17-Z004	Bronchus and lung	--	14	0	--	--		--	--	--
+39	362000e4-cf7c-48fc-93cc-8f5994b442ea	TCGA-55-A4DF	Bronchus and lung	Male	14	0	88 years 290 days	1 year 75 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+40	e737f650-b72d-44e7-b750-558a56716803	TCGA-05-4432	Bronchus and lung	Male	14	0	66 years 244 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	not reported
+41	81a0b2ff-a3d3-41bb-9ce6-765e6ae894af	TCGA-64-1679	Bronchus and lung	Female	14	0	58 years 126 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+42	631dbd88-fc3e-4ed8-b4a7-2da137a49a11	TCGA-17-Z008	Bronchus and lung	--	0	0	--	--		--	--	--
+43	56027785-fb10-492c-b021-ea9e3a1979db	TCGA-17-Z042	Bronchus and lung	--	14	0	--	--		--	--	--
+44	4b92fce2-3772-40eb-ab34-a27937b58590	TCGA-55-8092	Bronchus and lung	Male	14	0	75 years 204 days	154 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+45	f29b5aef-d53e-457d-b140-b0b5fd1960bc	TCGA-17-Z062	Bronchus and lung	--	14	0	--	--		--	--	--
+46	aee86a89-0377-4080-b16c-408bfbe78687	TCGA-69-7980	Bronchus and lung	Female	14	0	70 years 16 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+47	a19d84a1-b316-44d3-90b1-0d14b0fd7a14	TCGA-17-Z013	Bronchus and lung	--	14	0	--	--		--	--	--
+48	6c3655ca-8ae7-4ad7-b3e4-0c3ec293fba7	TCGA-49-4490	Bronchus and lung	Female	14	0	45 years 198 days	1 year 20 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+0	03d09c05-49ab-4ba6-a8d7-e7ccf71fafd2	TCGA-05-4245	Bronchus and lung	Male	0	3	81 years 62 days	--	Alive	Adenocarcinoma, NOS	not reported	not reported
+1	d31aeefc-b59b-42e9-9919-750b17a70a3d	TCGA-55-1595	Bronchus and lung	Female	14	2	--	--	Alive	Clear cell adenocarcinoma, NOS	not hispanic or latino	asian
+2	889aec8e-14ba-48d9-8fe1-f2416e82b333	TCGA-44-6147	Bronchus and lung	Female	70	2	67 years 160 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+3	bbe88801-34f3-46d2-bbfd-b46c3901ed71	TCGA-93-8067	Bronchus and lung	Male	42	2	77 years 329 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	asian
+4	193201a3-1447-47b1-bdf1-11ae0eb3b2f3	TCGA-95-7562	Bronchus and lung	Male	14	2	71 years 68 days	87 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+5	e51f717f-72e8-400e-9f35-fc5dc32fdf71	TCGA-80-5611	Bronchus and lung	Male	14	2	--	--	Alive	Solid carcinoma, NOS	not reported	not reported
+6	8a16ddb3-4861-4128-bed9-0b1f94fe8cf7	TCGA-64-1677	Bronchus and lung	Female	14	2	77 years 358 days	1 year 263 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+7	f1985735-a188-4567-a88a-530f9b80291b	TCGA-38-4630	Bronchus and lung	Female	14	2	75 years 274 days	2 years 343 days	Dead	Papillary adenocarcinoma, NOS	not hispanic or latino	white
+8	f3501466-cf32-4866-b5fb-e94dd32341bc	TCGA-44-2661	Bronchus and lung	Female	14	2	69 years 111 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+9	8b119d1c-6d21-4bbd-8a00-12da7b97d6c4	TCGA-05-5420	Bronchus and lung	Male	14	2	67 years 1 day	--	Alive	Adenocarcinoma, NOS	not reported	not reported
+10	9fcdccae-676e-4071-93c3-23d2d3ab0c00	TCGA-55-7725	Bronchus and lung	Female	14	2	68 years 11 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+11	a52e99d6-a61a-439d-b0b1-ca7a0eabcb04	TCGA-95-7948	Bronchus and lung	Female	14	2	42 years 23 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+12	cbfef004-b437-4d51-9d88-a2db50aa6481	TCGA-44-7661	Bronchus and lung	Female	14	1	69 years 281 days	1 year 192 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+13	9c7875ad-ab71-4d48-b2e3-e4c7a46393e9	TCGA-49-6745	Bronchus and lung	Male	14	1	82 years 183 days	--	Alive	Papillary adenocarcinoma, NOS	not reported	white
+14	93b62fc5-a0d3-4d32-bf27-cd7c9d43cd5f	TCGA-44-2664	Bronchus and lung	Female	0	1	66 years 362 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+15	294ff941-aea1-4588-9a0e-e9f5393e2bb6	TCGA-73-4662	Bronchus and lung	Female	14	1	65 years 21 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+16	781f40c9-c099-4c96-8269-ebe2a449c93d	TCGA-78-8660	Bronchus and lung	Male	14	1	69 years 220 days	321 days	Dead	Adenocarcinoma, NOS	not reported	not reported
+17	8d535aa6-6d59-4965-b5ed-17217d8f5930	TCGA-55-8621	Bronchus and lung	Female	14	1	75 years 92 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+18	1b354837-4925-4480-ac32-6b44d0957314	TCGA-73-4670	Bronchus and lung	Female	14	1	69 years 324 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+19	c650b1ff-8a4c-4ee9-b7c1-268c28c83827	TCGA-95-7043	Bronchus and lung	Female	14	1	63 years 155 days	1 year 138 days	Dead	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+20	ebcba7f2-ce13-4bae-97cd-91a6b1dcd465	TCGA-50-5932	Bronchus and lung	Male	14	1	75 years 61 days	3 years 140 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+21	ebb33753-9d38-4368-9033-3e55f129d00d	TCGA-44-7671	Bronchus and lung	Male	14	1	64 years 162 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	black or african american
+22	1f1df7ea-00b9-4432-86de-da773d1451e5	TCGA-55-8511	Bronchus and lung	Female	14	1	73 years 323 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+23	8e41153b-9faf-45c3-8397-8a428ef5c0d5	TCGA-55-7573	Bronchus and lung	Female	14	1	72 years 4 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+24	afb91740-2668-46d7-ba01-bb26153ad1c7	TCGA-73-4658	Bronchus and lung	Female	14	1	80 years 288 days	4 years 139 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+25	2b68b51f-bd4c-4bbb-b4e6-2eead53da2a4	TCGA-J2-8194	Bronchus and lung	Female	14	1	69 years 239 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+26	645903b5-ba37-48a1-985b-a019b8db3236	TCGA-80-5607	Bronchus and lung	Female	14	1	--	--	Alive	Adenocarcinoma, NOS	not reported	not reported
+27	0780eb43-d5b5-4c3d-9825-beacba5cc723	TCGA-49-4501	Bronchus and lung	Female	14	1	67 years 346 days	3 years 326 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+28	d28e465c-e553-4c53-8bb7-3d8199b9a8a5	TCGA-05-4410	Bronchus and lung	Male	14	1	62 years 243 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	not reported
+29	0d66bf6c-eed0-4726-bd5b-3bf6d610b4e0	TCGA-50-6597	Bronchus and lung	Female	14	1	79 years 341 days	3 years 173 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+30	1575148b-0f63-44ee-86fd-93ae1a02be0b	TCGA-50-5072	Bronchus and lung	Male	14	1	74 years 8 days	250 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+31	a41c46da-7ed4-4192-bd16-b3cbb94a5133	TCGA-55-1592	Bronchus and lung	Male	28	1	--	1 year 336 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+32	3434b91a-c05f-460f-a078-7b1bb6e7085d	TCGA-05-4382	Bronchus and lung	Male	14	1	68 years 31 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	not reported
+33	e0acafdd-06d0-48a6-bd68-577ef666a419	TCGA-95-7947	Bronchus and lung	Male	14	1	67 years 281 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+34	9f81c602-8afa-4588-b0b6-6e5a1a128d5a	TCGA-05-4396	Bronchus and lung	Male	14	1	76 years 335 days	303 days	Dead	Adenocarcinoma with mixed subtypes	not reported	not reported
+35	c0fdb152-25d2-404b-bec7-a43ece381f5b	TCGA-91-7771	Bronchus and lung	Male	14	1	62 years 281 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+36	102fba48-b23a-46d4-8371-71c11c1a6654	TCGA-67-3776	Bronchus and lung	Female	0	1	57 years 121 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+37	7099597a-b208-45b5-b9e0-11ab40d5e497	TCGA-44-3917	Bronchus and lung	Female	28	1	33 years 126 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+38	923b37e4-fcf7-46a0-8cb2-9139711fec7b	TCGA-55-7726	Bronchus and lung	Female	14	1	72 years 153 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+39	9a9bd705-1ef1-4a6c-bb1e-bdd346dc01c0	TCGA-55-8203	Bronchus and lung	Female	14	1	69 years 275 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+40	c8544fb3-b26e-4672-bb81-a271db724b04	TCGA-64-5775	Bronchus and lung	Male	14	1	71 years 126 days	62 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+41	44218b35-219c-4ad9-a01e-fde14067c4c0	TCGA-78-7633	Bronchus and lung	Male	14	1	67 years 242 days	4 years 67 days	Dead	Adenocarcinoma with mixed subtypes	not reported	white
+42	195a5afb-b79f-44d2-9d12-884487630c2b	TCGA-73-4676	Bronchus and lung	Male	14	1	45 years 310 days	281 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+43	230dc42d-681c-4e31-9d2e-c724e61829fb	TCGA-44-8119	Bronchus and lung	Male	14	1	73 years 340 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+44	d12b6930-9ae4-4fe7-ad69-d183135c91ab	TCGA-55-8091	Bronchus and lung	Male	14	1	74 years 357 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+45	d2c1e896-6886-4122-bb48-5fbcd3f641f4	TCGA-05-4418	Bronchus and lung	Male	14	1	69 years 215 days	274 days	Dead	Adenocarcinoma with mixed subtypes	not reported	not reported
+46	369f14c4-2191-4962-a309-3e23ddc4e5fc	TCGA-J2-8192	Bronchus and lung	Female	14	1	65 years 151 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+47	edf80622-aea2-4b50-bb69-691d6708aa83	TCGA-38-6178	Bronchus and lung	Female	14	1	70 years 26 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+48	d94fe32f-bedd-4f4c-9feb-fcb60d40f4bb	TCGA-05-4434	Bronchus and lung	Female	14	1	67 years 1 day	1 year 92 days	Dead	Adenocarcinoma with mixed subtypes	not reported	not reported
+49	127bf818-f7e5-46b5-a9de-39f6d96b8b83	TCGA-38-4629	Bronchus and lung	Male	14	1	68 years 267 days	2 years 134 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+50	0b31dbdf-0623-48e4-a0ec-017650dceda7	TCGA-91-6836	Bronchus and lung	Female	14	1	52 years 223 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+51	69dba721-a168-47a4-b7ff-80a448bad654	TCGA-55-7914	Bronchus and lung	Female	14	1	71 years 173 days	187 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+52	b40d0849-f4ef-4a14-9732-9beb708cb46b	TCGA-78-7166	Bronchus and lung	Male	14	1	84 years 188 days	258 days	Dead	Adenocarcinoma, NOS	not reported	white
+53	ad74c0e8-8878-4efc-997d-981cd547bc5b	TCGA-73-7498	Bronchus and lung	Female	14	1	58 years 343 days	--	Alive	Bronchiolo-alveolar carcinoma, non-mucinous	not hispanic or latino	white
+54	9a50e7e4-831d-489f-87d2-979e987561cc	TCGA-05-4384	Bronchus and lung	Male	14	1	66 years 305 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	not reported
+55	5af499be-d2b9-4eaf-9a9f-435dccb51917	TCGA-55-6979	Bronchus and lung	Female	14	1	59 years 231 days	237 days	Dead	Adenocarcinoma, NOS	not reported	white
+56	108a71cf-b9db-47cd-aa74-c03ec989b41b	TCGA-67-6217	Bronchus and lung	Female	14	1	73 years 257 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+57	9b38eded-3f46-4aaa-9991-68008d97bdbe	TCGA-44-7670	Bronchus and lung	Female	14	1	47 years 226 days	--	Alive	Adenocarcinoma, NOS	hispanic or latino	white
+58	100430c8-1446-45c8-af36-b6dbb3ddd0c1	TCGA-50-5935	Bronchus and lung	Female	14	1	86 years 199 days	1 year 288 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+59	294cb595-0907-44c7-bbef-985a27c1e6e2	TCGA-55-7724	Bronchus and lung	Female	14	1	76 years 132 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+60	8214a0d1-5e2d-4a7a-acb1-e5580755db83	TCGA-38-7271	Bronchus and lung	Female	14	1	72 years 142 days	2 years 70 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+61	12b79b4f-c28c-418e-a1e7-e622f33fdcc2	TCGA-50-5939	Bronchus and lung	Male	14	1	85 years 190 days	1 year 95 days	Dead	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+62	f587c9ab-2949-4410-80d6-a050865d48aa	TCGA-05-4405	Bronchus and lung	Female	14	1	74 years 213 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	not reported
+63	8609edfc-119d-4d63-9188-c86aabd5ca52	TCGA-86-8076	Bronchus and lung	Male	14	1	42 years 265 days	--	Alive	Papillary adenocarcinoma, NOS	not hispanic or latino	white
+64	c2a1de2e-6451-4c95-8ce6-263f2b7e6eff	TCGA-44-6776	Bronchus and lung	Female	14	1	60 years 235 days	--	Alive	Adenocarcinoma, NOS	not reported	white
+65	78a24c56-576c-4245-bb42-6603b3d19897	TCGA-05-4427	Bronchus and lung	Female	14	1	65 years 152 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	not reported
+66	722d6818-f1cb-49f4-b68a-fd0a31304681	TCGA-05-4402	Bronchus and lung	Female	14	1	57 years	244 days	Dead	Adenocarcinoma with mixed subtypes	not reported	not reported
+67	4d51ee44-e6f4-4bcb-be28-e9df54b39a8d	TCGA-55-8090	Bronchus and lung	Male	14	1	80 years 15 days	1 year 233 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+68	2483621a-4db3-41ab-aa33-b9427ea8a0af	TCGA-38-4631	Bronchus and lung	Female	14	1	72 years 240 days	354 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+69	5134c56f-8286-4ec8-8348-237cee7dad5e	TCGA-55-6978	Bronchus and lung	Male	14	1	--	176 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+70	18478121-f1d1-4bdd-9511-8ab22f4a0660	TCGA-78-8640	Bronchus and lung	Male	14	0	59 years 283 days	--	Alive	Adenocarcinoma, NOS	not reported	not reported
+71	9b4eeecb-6aff-435b-a244-ec362af92b7f	TCGA-05-5425	Bronchus and lung	Male	14	0	68 years 183 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	not reported
+72	dd46c83e-6551-485b-b935-f3beed891244	TCGA-55-7815	Bronchus and lung	Male	14	0	76 years 360 days	--	Alive	Adenocarcinoma, NOS	not reported	not reported
+73	a9644274-13bb-4228-9b4f-14260ccc26eb	TCGA-97-7554	Bronchus and lung	Female	14	0	83 years 12 days	--	Alive	Papillary adenocarcinoma, NOS	not hispanic or latino	white
+74	096bd95f-9900-4db2-b1c4-103902c3b31f	TCGA-J2-A4AD	Bronchus and lung	Female	14	0	61 years 134 days	1 year 185 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+75	0a45f302-5748-48f3-9dc9-66c01843a68e	TCGA-55-6981	Bronchus and lung	Female	14	0	53 years 139 days	3 years 284 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+76	5d7ec32a-049f-4997-9882-1b3ac157e02d	TCGA-86-8281	Bronchus and lung	Male	14	0	75 years 16 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+77	bf34664d-423d-4257-99d4-797f7d366455	TCGA-44-A4SU	Bronchus and lung	Female	14	0	67 years 349 days	1 year 44 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+78	3daebe75-c6df-478e-8a4c-11186fd5ead9	TCGA-93-A4JO	Bronchus and lung	Male	14	0	70 years 331 days	33 days	Dead	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+79	681b1176-9676-44d3-892c-1d5dba1ce25b	TCGA-75-7025	Bronchus and lung	Male	14	0	--	--	Alive	Adenocarcinoma, NOS	not reported	not reported
+80	b2285924-9813-4f46-bb8f-91a0efd8a9b6	TCGA-73-4668	Bronchus and lung	Female	14	0	66 years 149 days	--	Alive	Micropapillary carcinoma, NOS	not hispanic or latino	american indian or alaska native
+81	db0b9e63-4272-4f29-bf0e-1ec0fe79a9d7	TCGA-91-6831	Bronchus and lung	Male	14	0	66 years 330 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+82	dbd5b0de-94c9-45dd-afb3-6820a7ecaca2	TCGA-67-6215	Bronchus and lung	Female	14	0	52 years 317 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+83	2f0710f4-827b-45b2-9b7e-c27385b481a7	TCGA-55-6980	Bronchus and lung	Male	14	0	--	--	Alive	Bronchiolo-alveolar carcinoma, non-mucinous	not reported	white
+84	f934ed41-090e-4313-bbc5-d1a4a9ed9ad7	TCGA-44-A4SS	Bronchus and lung	Male	14	0	73 years 328 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+85	397d3f69-1453-4057-b177-8723eec923d1	TCGA-97-8171	Bronchus and lung	Male	14	0	81 years 42 days	--	Alive	Papillary adenocarcinoma, NOS	not hispanic or latino	asian
+86	e8060c45-451d-4779-9584-f284db47e63e	TCGA-78-7148	Bronchus and lung	Male	14	0	71 years 58 days	1 year 261 days	Dead	Adenocarcinoma with mixed subtypes	not reported	white
+87	f40301ba-831e-4afd-9ce8-5f3c1a05ff7e	TCGA-44-2657	Bronchus and lung	Female	14	0	74 years 270 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+88	69b23036-add9-42c9-941f-02fb74d9b08c	TCGA-05-4425	Bronchus and lung	Female	14	0	70 years 335 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	not reported
+89	088edf89-d2b5-40c7-b066-df3bd383f7ea	TCGA-49-4505	Bronchus and lung	Female	14	0	61 years 348 days	1 year 63 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+90	646910ee-5f5d-40ac-a21a-75790f89430a	TCGA-86-A4P8	Bronchus and lung	Female	14	0	59 years 189 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+91	39ab7174-5707-498d-9959-523680e04198	TCGA-55-A492	Bronchus and lung	Female	14	0	70 years 152 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+92	202e5df9-69f2-432c-a59d-cc5aa176e973	TCGA-55-8512	Bronchus and lung	Male	14	0	41 years 291 days	1 year 242 days	Dead	Bronchiolo-alveolar carcinoma, non-mucinous	not hispanic or latino	white
+93	349e6f38-2c67-4a69-a777-b9173a2a27cf	TCGA-44-6777	Bronchus and lung	Female	14	0	85 years 188 days	2 years 257 days	Dead	Adenocarcinoma, NOS	not reported	white
+94	4a1d30e8-e93a-41ed-8e54-08eaff6556a7	TCGA-L9-A444	Bronchus and lung	Female	14	0	60 years 287 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+95	31458638-e19c-43e5-ab13-9c64b3b3681d	TCGA-S2-AA1A	Bronchus and lung	Female	14	0	68 years 66 days	--	Alive	Bronchio-alveolar carcinoma, mucinous	not hispanic or latino	black or african american
+96	df576520-a6b6-4c9b-8d06-3f59cc5342fd	TCGA-75-7030	Bronchus and lung	Male	14	0	--	--	Alive	Adenocarcinoma, NOS	not reported	not reported
+97	7c7d777b-bf00-4c24-97fc-922580d5605f	TCGA-NJ-A55R	Bronchus and lung	Male	14	0	67 years 267 days	--	Alive	Solid carcinoma, NOS	not hispanic or latino	white
+98	41c4c704-825e-49f5-9d54-dbd7d30725e0	TCGA-64-5781	Bronchus and lung	Female	14	0	55 years 131 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+99	ff9def3d-17e5-4ef6-b74e-933f11ed6f00	TCGA-78-7146	Bronchus and lung	Female	14	0	71 years 340 days	173 days	Dead	Adenocarcinoma with mixed subtypes	not reported	white
+0	1427cd18-5ad3-491a-9981-908e31ae49db	TCGA-91-6829	Bronchus and lung	Male	14	0	78 years 352 days	3 years 163 days	Dead	Bronchiolo-alveolar carcinoma, non-mucinous	not hispanic or latino	white
+1	da345947-498b-4272-a231-a987ed4fe151	TCGA-44-A47G	Bronchus and lung	Female	14	0	73 years 137 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+2	8869000d-09d7-465a-ac32-54d1935c43e7	TCGA-86-8075	Bronchus and lung	Female	14	0	66 years 296 days	1 year 329 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+3	0c59ff96-5e4a-4664-a0b1-d057b4725483	TCGA-62-A46P	Bronchus and lung	Male	14	0	65 years 252 days	1 year 229 days	Dead	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+4	199386c2-bb53-4fad-a1b6-59ab216a4a50	TCGA-55-1596	Bronchus and lung	Male	28	0	55 years 293 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	asian
+5	5fe77d4a-a8a5-4c90-8ff2-9c3bbbb309ef	TCGA-97-A4M5	Bronchus and lung	Male	14	0	83 years 350 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+6	16cd58db-d52c-403e-9e9c-6da2e99f6bad	TCGA-78-7162	Bronchus and lung	Male	14	0	75 years 200 days	8 years 247 days	Dead	Adenocarcinoma with mixed subtypes	not reported	white
+7	44dec838-b653-42a7-a58b-a1fd232cd68c	TCGA-05-4422	Bronchus and lung	Male	14	0	68 years	--	Alive	Adenocarcinoma with mixed subtypes	not reported	not reported
+8	8fdbd88f-19ae-4ab8-bcd7-6bfa1bbde742	TCGA-64-5778	Bronchus and lung	Male	14	0	60 years 12 days	--	Alive	Bronchiolo-alveolar carcinoma, non-mucinous	not hispanic or latino	white
+9	793649e5-f479-4d64-8723-2ef488fe0fd9	TCGA-62-A46U	Bronchus and lung	Female	14	0	71 years 66 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+10	a5f2576a-d628-47de-a5df-76a4f3105dcc	TCGA-L9-A743	Bronchus and lung	Male	14	0	56 years 326 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+11	cd0dc947-b708-464e-beb7-954c9d4583e7	TCGA-73-4659	Bronchus and lung	Male	14	0	66 years 147 days	1 year 346 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+12	8d0736fe-261c-445c-bfd2-a3ea3ceaf367	TCGA-55-6971	Bronchus and lung	Female	14	0	59 years 185 days	--	Alive	Adenocarcinoma, NOS	not reported	white
+13	12ccd581-a921-41bc-bcee-4e9be54532cc	TCGA-50-5931	Bronchus and lung	Female	14	0	75 years 340 days	1 year 69 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+14	ab9e6815-4d13-44db-93e5-553eb4f5bc95	TCGA-44-7662	Bronchus and lung	Male	14	0	61 years 263 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+15	1b31cdb3-1837-49d6-a857-1830f8800299	TCGA-69-7763	Bronchus and lung	Male	14	0	69 years 114 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+16	9a2a226e-9605-4214-9320-469305e664e6	TCGA-49-AARQ	Bronchus and lung	Female	14	0	41 years 90 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+17	0232d299-4cdf-4fd7-9a5e-8d13c208b40c	TCGA-91-6848	Bronchus and lung	Male	14	0	59 years 280 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+18	345aef28-d49b-491b-a337-b1ac55c37d35	TCGA-97-A4M2	Bronchus and lung	Male	12	0	66 years 207 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+19	4d153600-81f9-44fb-b485-6355ec306d6a	TCGA-78-7159	Bronchus and lung	Female	14	0	60 years 346 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	white
+20	528a0fce-0719-4b19-a69d-3f18681696c5	TCGA-86-A4D0	Bronchus and lung	Male	14	0	48 years 75 days	116 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+21	36470b30-a3b3-4d28-851b-918a7ff88011	TCGA-55-8096	Bronchus and lung	Female	14	0	67 years 213 days	1 year 354 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+22	b89de053-d253-447f-952e-9a2edcf6bca5	TCGA-55-A490	Bronchus and lung	Male	14	0	78 years 239 days	99 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+23	1070ff27-17c9-43dd-a4f6-daa643eb9123	TCGA-55-8089	Bronchus and lung	Male	14	0	56 years 122 days	1 year 337 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+24	548b0b68-ff45-4d45-adbe-984259e4a68b	TCGA-55-7816	Bronchus and lung	Female	14	0	49 years 273 days	1 year 103 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+25	b36b7567-30d3-4d0c-84c4-b203986e0fdb	TCGA-55-8301	Bronchus and lung	Male	14	0	58 years 351 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+26	7b0622ab-63ea-483f-ae40-d3ea587bdbba	TCGA-78-7156	Bronchus and lung	Male	14	0	62 years 75 days	2 years 246 days	Dead	Adenocarcinoma with mixed subtypes	not reported	white
+27	26a92e1b-08d8-45cd-af0c-eaf2514808a2	TCGA-L4-A4E6	Bronchus and lung	Male	14	0	67 years 160 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+28	967d6548-5a84-4b7e-bc3f-2e522859fce6	TCGA-44-A47B	Bronchus and lung	Male	14	0	79 years 15 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+29	c9c533ee-e154-4a56-bce9-b5af37574b2f	TCGA-55-7913	Bronchus and lung	Female	14	0	61 years 46 days	1 year 196 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+30	fb79c491-7b01-42ae-8369-8364e442e31b	TCGA-44-2665	Bronchus and lung	Female	56	0	55 years 261 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+31	a214a959-3b21-4f25-a615-383cda7afdff	TCGA-55-8206	Bronchus and lung	Male	14	0	56 years 236 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+32	82476d2d-e403-4f6b-8dd6-cc84e3329478	TCGA-50-6595	Bronchus and lung	Female	14	0	74 years 169 days	189 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+33	875333ab-9048-462d-aaa2-693ad127e3cc	TCGA-38-4632	Bronchus and lung	Male	14	0	42 years 78 days	3 years 262 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+34	e5f956dd-f49f-435c-83c3-5b1b0a2050ed	TCGA-J2-A4AE	Bronchus and lung	Female	14	0	77 years 39 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+35	762dea8a-5b41-4058-979a-b7876ed13d7e	TCGA-05-4395	Bronchus and lung	Male	14	0	76 years 212 days	--	Dead	Adenocarcinoma with mixed subtypes	not reported	not reported
+36	673493f6-975c-49e8-934c-001e9a0fff90	TCGA-67-3772	Bronchus and lung	Female	12	0	82 years 39 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+37	035c0b2b-c722-443b-8962-db4ee92c7532	TCGA-86-6851	Bronchus and lung	Female	14	0	73 years 145 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+38	953a908d-0993-42f6-853b-512611d19a2c	TCGA-91-6849	Bronchus and lung	Female	14	0	75 years 283 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+39	42259aa6-c9f5-4309-a956-dbf930312f44	TCGA-NJ-A4YP	Bronchus and lung	Male	14	0	52 years 113 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+40	afe83af5-af22-49c0-88b4-f1d0dfcbe238	TCGA-55-8097	Bronchus and lung	Female	14	0	60 years 345 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+41	2f1a4b16-104c-40eb-8114-8245847bb716	TCGA-86-8585	Bronchus and lung	Male	14	0	57 years 99 days	--	Alive	Solid carcinoma, NOS	not hispanic or latino	white
+42	2efc156c-464a-4c2f-a854-39fefe32081c	TCGA-55-6987	Bronchus and lung	Male	14	0	77 years 258 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+43	62380447-3b94-4e7c-823a-72dd7b4ccf3a	TCGA-62-8399	Bronchus and lung	Male	14	0	62 years 307 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+44	9ee20c0d-a1c3-47f3-abda-131b3f190f52	TCGA-50-5045	Bronchus and lung	Female	14	0	57 years 142 days	5 years 348 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+45	c353f949-5f66-4a2c-b8f0-17be8bf19e0a	TCGA-78-7153	Bronchus and lung	Female	14	0	65 years 181 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	white
+46	4b7cd595-e7f9-45a8-b736-a8c7c42d9539	TCGA-71-6725	Bronchus and lung	Female	14	0	48 years 261 days	--	Alive	Papillary adenocarcinoma, NOS	not hispanic or latino	asian
+47	f77cf4d3-9829-4fd3-95a1-b29aed9e94b8	TCGA-64-1678	Bronchus and lung	Female	14	0	70 years 364 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+48	532c1852-76dd-489f-9380-36766d6e3c34	TCGA-86-7714	Bronchus and lung	Female	14	0	61 years 339 days	1 year 260 days	Dead	Adenocarcinoma with mixed subtypes	not hispanic or latino	black or african american
+49	58babefe-7e81-4594-ba29-50d1de92a5ab	TCGA-75-6207	Bronchus and lung	Male	14	0	--	--	Dead	Adenocarcinoma, NOS	not reported	not reported
+50	32d9935a-f5cd-43b3-88bd-09e6e2b9090d	TCGA-55-A48X	Bronchus and lung	Female	14	0	63 years 331 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+51	d344dae0-adf4-4697-b703-7690c13d8331	TCGA-95-A4VK	Bronchus and lung	Female	14	0	74 years 12 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+52	9b132e4f-7e35-4cc5-8711-43ad62b906d0	TCGA-50-6591	Bronchus and lung	Female	14	0	63 years 57 days	119 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+53	2079155a-d91d-4246-a038-01934a580f32	TCGA-38-4626	Bronchus and lung	Female	14	0	57 years 84 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+54	7e7f089c-25f7-4e14-aed5-d741047b9e42	TCGA-86-8359	Bronchus and lung	Male	14	0	52 years 95 days	1 year 79 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+55	f3f024c2-52f1-400e-946c-398f5b72e6dc	TCGA-50-5941	Bronchus and lung	Female	14	0	55 years 262 days	--	Alive	Adenocarcinoma, NOS	not reported	white
+56	851867cb-9ad0-4fdf-ac75-9bb0427ad440	TCGA-44-A479	Bronchus and lung	Female	14	0	73 years 361 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+57	9240d5fc-de23-4436-8099-da9bd3054860	TCGA-62-8397	Bronchus and lung	Female	14	0	70 years 161 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+58	c4d1e105-28b7-48df-abef-fbe09782fdb2	TCGA-55-6972	Bronchus and lung	Male	14	0	72 years 327 days	4 years 171 days	Dead	Papillary adenocarcinoma, NOS	not hispanic or latino	white
+59	54480f58-7e63-4aed-a116-c2c2252e8364	TCGA-91-8499	Bronchus and lung	Female	14	0	76 years 94 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+60	f327dea0-2d30-482f-809c-76a148a749b7	TCGA-MP-A4TI	Bronchus and lung	Male	12	0	72 years 267 days	1 year 64 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+61	9536e32d-2707-48d2-a36d-08c521665bb9	TCGA-91-6828	Bronchus and lung	Male	14	0	70 years 303 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+62	028e99e9-5b9a-4954-bb6e-6d4709a3cea8	TCGA-55-6986	Bronchus and lung	Female	14	0	--	--	Alive	Bronchiolo-alveolar carcinoma, non-mucinous	not reported	white
+63	e2b0d873-4942-4483-9a88-d5c6338d0382	TCGA-97-A4LX	Bronchus and lung	Male	14	0	81 years 330 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+64	cc4bd56a-25c5-4c48-b583-ac3aeb778ca6	TCGA-38-4628	Bronchus and lung	Female	14	0	65 years 316 days	4 years 31 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+65	f0c94f68-bfd9-45cb-b4fd-8bb1ae4e9a2b	TCGA-69-8254	Bronchus and lung	Male	14	0	85 years 88 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+66	d6e274a0-6425-437b-bc07-1225be7808d5	TCGA-55-6969	Bronchus and lung	Male	14	0	52 years 277 days	--	Alive	Adenocarcinoma, NOS	not reported	white
+67	f59e5a76-f803-470b-910c-a897a149d939	TCGA-55-8505	Bronchus and lung	Male	12	0	62 years 31 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+68	8981f0c9-7155-4c96-bf77-7d40fe404323	TCGA-69-7760	Bronchus and lung	Male	14	0	73 years 114 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+69	e499069b-a16a-49e9-941a-e3e9ea62af25	TCGA-62-A472	Bronchus and lung	Male	14	0	70 years 326 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+70	98ef41fa-3015-445a-bbdc-984361c911f7	TCGA-49-AARN	Bronchus and lung	Female	14	0	56 years 151 days	3 years 40 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+71	6d96a298-be5a-4e14-afe8-ca4b6ca298d6	TCGA-44-8117	Bronchus and lung	Female	14	0	54 years 132 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+72	e16ca88f-488b-40f0-9169-e5a62482a2ff	TCGA-44-2666	Bronchus and lung	Male	84	0	43 years 265 days	97 days	Dead	Adenocarcinoma, NOS	hispanic or latino	white
+73	ceead734-1ce0-4385-b65a-a9c853b7308e	TCGA-MN-A4N4	Bronchus and lung	Male	14	0	57 years 69 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+74	09918b81-4696-4cba-a45a-5fe7407c2337	TCGA-50-6592	Bronchus and lung	Female	14	0	71 years 259 days	2 years 47 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+75	5fd0f07b-8bb9-4378-bd26-28a26057e8fe	TCGA-55-8085	Bronchus and lung	Male	14	0	64 years 220 days	--	Alive	Papillary adenocarcinoma, NOS	not hispanic or latino	white
+76	3d2aa654-1b5f-4eb4-a1c2-af31f5760069	TCGA-05-4420	Bronchus and lung	Male	14	0	41 years 184 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	not reported
+77	bf755bc2-b7aa-4c3c-8b3c-58b089b5cab6	TCGA-55-7907	Bronchus and lung	Male	14	0	77 years 77 days	343 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+78	61c655ec-52b5-453f-a6cc-b2aba445b027	TCGA-49-4486	Bronchus and lung	Male	14	0	72 years 117 days	6 years 127 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+79	d717fa33-3c91-4ced-89c6-79ff5542f04c	TCGA-38-4627	Bronchus and lung	Female	14	0	64 years 134 days	3 years 52 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+80	63bd2175-4b7c-44c9-aef3-9efc8f79837b	TCGA-05-5429	Bronchus and lung	Male	14	0	60 years 151 days	275 days	Dead	Adenocarcinoma, NOS	not reported	not reported
+81	6092bd5c-e97c-4a77-a4ad-c87623b17507	TCGA-97-7547	Bronchus and lung	Female	14	0	67 years 266 days	--	Alive	Papillary adenocarcinoma, NOS	not hispanic or latino	white
+82	34040b83-7e8a-4264-a551-b16621843e28	TCGA-05-4244	Bronchus and lung	Male	14	0	70 years 185 days	--	Alive	Adenocarcinoma, NOS	not reported	not reported
+83	9b93a7c5-f9b4-4461-8078-0201a725c9cf	TCGA-49-AARR	Bronchus and lung	Male	14	0	68 years 105 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+84	e64f76e4-f748-4d9e-ba71-53e2818a7920	TCGA-78-7542	Bronchus and lung	Male	14	0	56 years 309 days	321 days	Dead	Adenocarcinoma, NOS	not reported	white
+85	ccfdad76-cc45-447f-bed8-ede8f6a8844d	TCGA-55-7283	Bronchus and lung	Female	14	0	76 years 187 days	--	Alive	Bronchiolo-alveolar carcinoma, non-mucinous	not hispanic or latino	white
+86	d3e23815-7f9d-48aa-9aef-3a1dd9d464d7	TCGA-99-AA5R	Bronchus and lung	Female	14	0	70 years 211 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+87	765ad5a5-134b-4680-a6d4-1dd113dc47cc	TCGA-49-AAR4	Bronchus and lung	Male	14	0	51 years 312 days	2 years 149 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+88	ba49117e-dab6-4e7d-bc44-f11dcafa1318	TCGA-55-7727	Bronchus and lung	Male	14	0	70 years 362 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+89	31c96e35-5e2f-429c-b12a-7bc5a497a300	TCGA-05-4398	Bronchus and lung	Female	14	0	47 years 305 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	not reported
+90	70081320-540f-41d2-8687-ee6d011f8eb0	TCGA-MP-A4T9	Bronchus and lung	Female	14	0	54 years 44 days	3 years 170 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+91	d3ff328c-2488-47bd-8663-366b6812c7b5	TCGA-53-7626	Bronchus and lung	Female	14	0	76 years 265 days	2 years 199 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+92	2a394996-809f-459f-a647-d209921ccbd2	TCGA-73-A9RS	Bronchus and lung	Male	14	0	41 years 187 days	340 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+93	97831d28-ab41-4c18-bfc2-c4c6bc757d13	TCGA-91-6847	Bronchus and lung	Female	14	0	62 years 217 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+94	a250a369-e536-4a18-b7af-2911133d7bdc	TCGA-55-A491	Bronchus and lung	Female	14	0	81 years 8 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+95	ef03654a-dcf1-41ff-a67e-4f3fbf9ba807	TCGA-93-7347	Bronchus and lung	Female	14	0	76 years 190 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+96	a3de401d-91fe-49a2-bb07-81c1a06506e6	TCGA-05-4389	Bronchus and lung	Male	14	0	70 years 93 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	not reported
+97	5abd6651-69be-42f8-bdc0-308e68136d31	TCGA-78-7163	Bronchus and lung	Male	14	0	60 years 87 days	--	Alive	Adenocarcinoma, NOS	not reported	white
+98	1d276b62-5e64-48fb-b2ce-5192b511fe37	TCGA-75-5146	Bronchus and lung	Male	14	0	--	--	Alive	Bronchiolo-alveolar carcinoma, non-mucinous	not reported	not reported
+99	2f09479f-87fc-4c34-8e2c-333e970a3681	TCGA-91-6835	Bronchus and lung	Female	14	0	81 years 302 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+0	67fa3e41-c7c6-44c5-9e67-6bcb2715aacc	TCGA-69-A59K	Bronchus and lung	Female	14	0	60 years 178 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	black or african american
+1	5a2f8140-8f90-4e94-b703-5fa5aa96be7b	TCGA-91-6830	Bronchus and lung	Female	14	0	65 years 181 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+2	3e34c7d9-90fa-41e2-ba6b-4bbc332adc4e	TCGA-55-A4DG	Bronchus and lung	Male	14	0	71 years 112 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+3	ae39e358-08d7-4367-ae68-82b469e791e4	TCGA-73-4675	Bronchus and lung	Male	14	0	59 years 65 days	2 years 192 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+4	ea0b9461-0d4d-4ade-a255-1b03dd85e30e	TCGA-91-A4BC	Bronchus and lung	Male	14	0	59 years 16 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+5	2a43e61e-2151-4c5a-b062-74ce9dfd8d4a	TCGA-L9-A5IP	Bronchus and lung	Female	14	0	40 years 71 days	58 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+6	f77b6930-a1ce-446e-a15d-c018cbbecfee	TCGA-49-4510	Bronchus and lung	Female	14	0	51 years 135 days	2 years 166 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+7	f98ecd8a-b878-4f53-b911-20cd8e17281c	TCGA-05-4250	Bronchus and lung	Female	14	0	79 years 214 days	121 days	Dead	Adenocarcinoma, NOS	not reported	not reported
+8	6ee9caec-65ac-46db-9426-ffaa31967ae2	TCGA-95-8494	Bronchus and lung	Male	14	0	67 years 302 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+9	ab8d7f84-dd71-42c7-9471-4db967a9c89c	TCGA-50-6673	Bronchus and lung	Female	14	0	84 years 8 days	22 days	Dead	Adenocarcinoma, NOS	not reported	white
+10	9a63f744-4ed4-4b4d-aac6-f9bda66aa563	TCGA-75-6205	Bronchus and lung	Female	14	0	--	--	Dead	Adenocarcinoma, NOS	not reported	not reported
+11	fc79086c-af9a-4c27-b074-f7050b6f3381	TCGA-78-7155	Bronchus and lung	Male	14	0	68 years 26 days	3 years 76 days	Dead	Adenocarcinoma, NOS	not reported	white
+12	f063ddbb-1668-40df-9ec2-b0a23ca2c389	TCGA-55-6984	Bronchus and lung	Female	14	0	--	2 years 30 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+13	d721bfe0-90e3-415e-b9f3-1a270efa5fbb	TCGA-49-4488	Bronchus and lung	Female	14	0	74 years 304 days	2 years 139 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+14	4036c6fc-c82e-47bb-a384-6f299dc30b52	TCGA-44-7672	Bronchus and lung	Female	14	0	52 years 207 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+15	e10568fe-0436-43f2-9f0f-48f9903868c4	TCGA-50-6593	Bronchus and lung	Female	14	0	49 years 255 days	336 days	Dead	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+16	575752f8-2788-43cd-afde-f0f600f39d18	TCGA-97-A4M3	Bronchus and lung	Female	14	0	69 years 182 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+17	c4cfa3cc-e305-42dd-be57-97efbb891659	TCGA-86-8671	Bronchus and lung	Female	14	0	72 years 150 days	--	Alive	Papillary adenocarcinoma, NOS	not hispanic or latino	white
+18	c4c1469d-752f-42b6-8686-714ad4a8ac97	TCGA-75-6206	Bronchus and lung	Male	14	0	--	--	Alive	Adenocarcinoma, NOS	not reported	not reported
+19	a3f6bc1c-19ab-4eeb-a9ac-3d2fac850bde	TCGA-86-7701	Bronchus and lung	Male	14	0	66 years 103 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+20	33c71ead-4c2a-476d-85ef-885dbbfc2cbd	TCGA-44-6774	Bronchus and lung	Female	14	0	56 years 8 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+21	e68219b0-a9c2-49df-8f0d-db5ea97fd2dc	TCGA-55-6543	Bronchus and lung	Female	14	0	--	--	Alive	Bronchio-alveolar carcinoma, mucinous	not reported	white
+22	32a7b827-c3f9-4607-ae63-dae8caa2bc97	TCGA-L4-A4E5	Bronchus and lung	Female	14	0	48 years 148 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+23	05534064-8b43-4c82-95da-70fd83bd6560	TCGA-78-7540	Bronchus and lung	Female	14	0	66 years 334 days	3 years 102 days	Dead	Bronchio-alveolar carcinoma, mucinous	not reported	white
+24	8e2aca86-7cba-4631-9f25-4d14219dbc6d	TCGA-86-A456	Bronchus and lung	Female	14	0	78 years 44 days	--	Alive	Papillary adenocarcinoma, NOS	not hispanic or latino	asian
+25	68b86559-38b2-41f2-b66e-c3c2b628b14d	TCGA-44-4112	Bronchus and lung	Female	84	0	60 years 191 days	2 years 78 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+26	f462cfef-f60a-4d3e-b92d-b8d8f50b6bb3	TCGA-69-7978	Bronchus and lung	Male	14	0	59 years 236 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+27	d288b69f-1e79-4429-8646-9994b7c54f8f	TCGA-78-7154	Bronchus and lung	Male	14	0	72 years 183 days	1 year 228 days	Dead	Adenocarcinoma, NOS	not reported	white
+28	96d93e23-bb0d-46a8-9685-5ed0d6b83059	TCGA-99-7458	Bronchus and lung	Female	14	0	74 years 331 days	--	Alive	Bronchiolo-alveolar carcinoma, non-mucinous	not hispanic or latino	white
+29	fe714ac0-f874-426a-924b-a2980232b5f7	TCGA-55-8616	Bronchus and lung	Female	14	0	58 years 41 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+30	a391d49f-a822-460b-981c-6fbe1868ee38	TCGA-49-6743	Bronchus and lung	Female	14	0	81 years 222 days	--	Alive	Clear cell adenocarcinoma, NOS	not reported	white
+31	33e3f736-7990-4f7a-ac35-863247566541	TCGA-05-5423	Bronchus and lung	Male	14	0	65 years 122 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	not reported
+32	a8de1beb-6296-44eb-bd63-c603f70faaf3	TCGA-55-8614	Bronchus and lung	Male	14	0	76 years 165 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+33	6e3b6b72-142d-4b8d-a462-28a205796e41	TCGA-44-3918	Bronchus and lung	Female	42	0	60 years 321 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+34	75589307-f141-4d0d-b35d-adbbc77b3dec	TCGA-55-8204	Bronchus and lung	Female	14	0	87 years 42 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+35	a65700c2-e58c-4fd4-aeb1-5686b8f4d212	TCGA-64-5815	Bronchus and lung	Male	14	0	74 years 252 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+36	f61d599a-43bd-4743-9568-678317e75955	TCGA-44-A47F	Bronchus and lung	Male	12	0	74 years 94 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+37	25d4ea9e-f773-4f11-bac9-64efdad73211	TCGA-83-5908	Bronchus and lung	Female	14	0	59 years 211 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+38	bc4c4079-b449-485d-84e4-a40496e563e8	TCGA-86-8673	Bronchus and lung	Male	14	0	61 years 291 days	--	Alive	Bronchiolo-alveolar carcinoma, non-mucinous	not hispanic or latino	white
+39	4b22ad71-c585-4077-ad3c-c6e026d0c7fa	TCGA-44-7669	Bronchus and lung	Male	14	0	59 years 344 days	1 year 209 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+40	54775a66-08cc-4f38-98f2-e7b2b5cec994	TCGA-86-7953	Bronchus and lung	Female	14	0	69 years 113 days	--	Alive	Bronchiolo-alveolar adenocarcinoma, NOS	not hispanic or latino	white
+41	fcfe0b53-dfc1-42fa-9efc-2b2ff259297e	TCGA-97-7937	Bronchus and lung	Male	14	0	65 years 178 days	--	Alive	Micropapillary carcinoma, NOS	not hispanic or latino	white
+42	996a0070-e9bf-4601-8ef7-60212108258d	TCGA-55-5899	Bronchus and lung	Male	14	0	--	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+43	6144d666-8f77-4efe-95f1-f9e5c4e5e056	TCGA-44-6145	Bronchus and lung	Female	14	0	62 years 100 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+44	50b2c647-aecd-4c81-af22-0d8116593552	TCGA-49-4507	Bronchus and lung	Female	14	0	73 years 188 days	268 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+45	fb6b289c-aaf9-4d8e-b6e0-5d35bce1b6e1	TCGA-64-1676	Bronchus and lung	Male	28	0	58 years 244 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+46	dc9eaaa0-0bfd-46d0-994f-310826879da4	TCGA-69-7973	Bronchus and lung	Female	14	0	42 years 15 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+47	e254aaeb-012c-4d92-8a03-cce1f6a2bcd6	TCGA-55-8087	Bronchus and lung	Female	14	0	59 years 106 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+48	22302e92-fdfa-462a-9249-efdaa26ee5ed	TCGA-44-6144	Bronchus and lung	Male	14	0	58 years 99 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+49	7cce924f-12a1-4895-9866-5d4b1869dde6	TCGA-55-6970	Bronchus and lung	Female	14	0	67 years 302 days	1 year 99 days	Dead	Papillary adenocarcinoma, NOS	not reported	white
+50	7e83f9dd-b038-497b-a113-a55605398b7b	TCGA-99-8032	Bronchus and lung	Male	14	0	61 years 355 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+51	37c8d73a-45ae-40fc-ba9a-721b755c1160	TCGA-97-7553	Bronchus and lung	Female	14	0	58 years 334 days	--	Alive	Bronchiolo-alveolar carcinoma, non-mucinous	not hispanic or latino	white
+52	34d8e84e-c3e1-417d-8b9b-8563d9fa0f8e	TCGA-86-8055	Bronchus and lung	Male	14	0	79 years 270 days	124 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+53	1fc81cd4-fa89-4135-8c3c-027ffae82b05	TCGA-44-5644	Bronchus and lung	Female	14	0	51 years 17 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+54	591c068f-bbb1-4df2-9abb-d1a2e4a58372	TCGA-50-5068	Bronchus and lung	Female	14	0	59 years 179 days	4 years 38 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+55	3c4ff061-d214-4d1c-8d2e-3034f207c252	TCGA-44-6775	Bronchus and lung	Female	70	0	72 years 117 days	--	Alive	Adenocarcinoma, NOS	hispanic or latino	white
+56	67dbe286-edb3-4d07-8f74-9e5254f01945	TCGA-55-7994	Bronchus and lung	Male	14	0	81 years 273 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+57	4cd3d483-2283-4c6a-a57a-444216119d34	TCGA-49-6761	Bronchus and lung	Female	14	0	68 years 12 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+58	01e9888d-b5b9-48f1-8ba6-8a89af108a04	TCGA-NJ-A7XG	Bronchus and lung	Male	14	0	49 years 230 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+59	b56dad1e-2fd5-47d8-9cc7-a54be9a1bae2	TCGA-78-7152	Bronchus and lung	Male	14	0	65 years 41 days	3 years 120 days	Dead	Adenocarcinoma with mixed subtypes	not reported	white
+60	37884d39-64e8-4242-b6bd-4c0a1daa21cd	TCGA-71-8520	Bronchus and lung	Female	14	0	60 years 6 days	210 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	asian
+61	d5326429-9805-47f9-97b0-fbda658e3f01	TCGA-91-6840	Bronchus and lung	Female	14	0	59 years 305 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+62	09078761-1c14-4d01-8e15-535c19a9b0f9	TCGA-97-8177	Bronchus and lung	Female	14	0	59 years 99 days	--	Alive	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+63	aea68827-dc0f-484d-a00d-06deeaa4b3ce	TCGA-05-4433	Bronchus and lung	Male	14	0	82 years 244 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	not reported
+64	a0e57b39-960e-4e46-8aa0-d0ee2fd9a7cc	TCGA-78-7150	Bronchus and lung	Male	14	0	59 years 342 days	1 year 301 days	Dead	Adenocarcinoma, NOS	not reported	white
+65	4e7b2af4-b158-41a7-be22-bea227a759e6	TCGA-55-7227	Bronchus and lung	Male	14	0	77 years 334 days	2 years 222 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+66	e379cf55-68ef-4fbc-af3e-0a5040c27f0f	TCGA-MP-A4T2	Bronchus and lung	Male	14	0	71 years 78 days	3 years 41 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+67	0df573ee-28f0-4244-b434-09e6ca59fbf0	TCGA-67-3771	Bronchus and lung	Female	28	0	77 years 282 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+68	a1e65587-24c1-4b41-92a7-4e1f15fffd78	TCGA-49-4512	Bronchus and lung	Female	14	0	69 years 300 days	2 years 175 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+69	f4350d9c-3f40-4829-bbc4-8acb2f3ff512	TCGA-97-8175	Bronchus and lung	Female	14	0	55 years 118 days	--	Alive	Solid carcinoma, NOS	not hispanic or latino	white
+70	dcd066ba-5894-453e-b1da-82092858c3db	TCGA-86-6562	Bronchus and lung	Male	14	0	52 years 308 days	1 year 11 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+71	a046888c-f153-4f35-a1b6-23dd1691a91a	TCGA-55-6975	Bronchus and lung	Male	14	0	--	118 days	Dead	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+72	552712d3-da16-441e-ba93-11810793d598	TCGA-69-8255	Bronchus and lung	Male	14	0	71 years 357 days	--	Alive	Solid carcinoma, NOS	hispanic or latino	white
+73	8504fd86-a70a-4cba-9ec8-25c9e60ca549	TCGA-50-6594	Bronchus and lung	Female	14	0	79 years 70 days	1 year 5 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+74	17e09b0d-eab2-40ec-ae3c-be9ab63fcef0	TCGA-MN-A4N5	Bronchus and lung	Male	14	0	63 years 247 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+75	2db08267-d346-4d42-aac0-b76831903253	TCGA-75-6211	Bronchus and lung	Female	14	0	--	--	Dead	Adenocarcinoma, NOS	not reported	not reported
+76	e6e75590-9520-4b1c-8a28-4a1d2b2218fc	TCGA-97-7938	Bronchus and lung	Female	14	0	76 years 221 days	18 days	Dead	Bronchiolo-alveolar carcinoma, non-mucinous	not hispanic or latino	white
+77	23069f19-eba5-4ea5-ae7d-1ee4399ce7c1	TCGA-75-6212	Bronchus and lung	Female	14	0	--	4 years 55 days	Dead	Micropapillary carcinoma, NOS	not reported	not reported
+78	e1c55bac-bb41-4964-add5-ecd6ba04b58d	TCGA-50-5051	Bronchus and lung	Female	14	0	42 years 245 days	1 year 113 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+79	54e90433-5218-4d83-848f-f995ecba2a63	TCGA-L9-A7SV	Bronchus and lung	Male	14	0	69 years 96 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+80	77f8c850-b4e6-46a1-ab12-a50e0044a0c8	TCGA-55-8208	Bronchus and lung	Female	14	0	73 years 53 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+81	ddeacccf-0953-4952-8a4e-c2617f2e7bcc	TCGA-44-5645	Bronchus and lung	Female	70	0	61 years 191 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+82	47b749e6-e060-4aa1-8f29-976e489ba789	TCGA-49-AAR9	Bronchus and lung	Male	14	0	61 years 230 days	260 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+83	75a0bb0b-6528-4fb8-a9e6-254905d21df4	TCGA-MN-A4N1	Bronchus and lung	Male	14	0	60 years 24 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+84	69584d55-18f7-4786-b3cc-cd528500be44	TCGA-55-8094	Bronchus and lung	Male	14	0	51 years 276 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+85	0ea4920f-f4c8-4590-84b3-eb419824e144	TCGA-38-4625	Bronchus and lung	Female	14	0	66 years 135 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+86	75dd635e-8e0c-4c0b-b21c-20f77770218d	TCGA-50-5942	Bronchus and lung	Female	14	0	67 years 310 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+87	cd9e70e4-8622-4a07-8646-63f8275c1737	TCGA-49-AARE	Bronchus and lung	Female	14	0	51 years 266 days	3 years 134 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	black or african american
+88	7eb540b4-8dd3-4382-a488-e48b1c7213b3	TCGA-50-7109	Bronchus and lung	Male	14	0	60 years 64 days	308 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+89	433a32d0-93d1-4897-8e36-beb1ec1d998e	TCGA-62-8402	Bronchus and lung	Female	14	0	73 years 271 days	4 years 37 days	Dead	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+90	9944f46f-9fa8-4e2c-a806-776bec7f8803	TCGA-50-5049	Bronchus and lung	Male	14	0	70 years 10 days	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+91	3e635902-5310-4406-8b4d-a238ce382639	TCGA-67-4679	Bronchus and lung	Male	14	0	69 years	--	Alive	Adenocarcinoma, NOS	not hispanic or latino	white
+92	b8475929-2d9d-4909-bd62-59684a140bd7	TCGA-05-4390	Bronchus and lung	Female	14	0	58 years 246 days	--	Alive	Adenocarcinoma with mixed subtypes	not reported	not reported
+93	67a2bc21-7c87-4678-997d-a434de672436	TCGA-78-7537	Bronchus and lung	Male	14	0	72 years 312 days	4 years 161 days	Dead	Adenocarcinoma with mixed subtypes	not reported	not reported
+94	5510ad32-62fd-4adc-964a-ae4e997c2f4b	TCGA-55-8620	Bronchus and lung	Male	14	0	60 years 176 days	1 year 10 days	Dead	Adenocarcinoma, NOS	not hispanic or latino	white
+95	497cc506-03fe-4ffa-860b-5a12adb1bc7d	TCGA-50-8460	Bronchus and lung	Male	14	0	74 years 242 days	--	Alive	Papillary adenocarcinoma, NOS	not hispanic or latino	white
+96	8c695c24-e7f9-449a-9258-a1bc8a33bf9a	TCGA-97-8174	Bronchus and lung	Male	14	0	67 years 254 days	164 days	Dead	Papillary adenocarcinoma, NOS	not hispanic or latino	white
+97	7782ceaa-da49-4232-8b3f-534971adaad8	TCGA-73-7499	Bronchus and lung	Female	14	0	81 years 98 days	4 years 70 days	Dead	Adenocarcinoma with mixed subtypes	not hispanic or latino	white
+98	86faf16c-56fd-4b7b-a6b2-b4c83bec93e1	TCGA-78-7161	Bronchus and lung	Female	14	0	69 years 92 days	291 days	Dead	Adenocarcinoma with mixed subtypes	not reported	white
+99	b87a5d92-4c09-48fe-bb08-b3c89a7c892e	TCGA-49-4514	Bronchus and lung	Female	14	0	79 years 54 days	--	Alive	Papillary adenocarcinoma, NOS	not reported	white
