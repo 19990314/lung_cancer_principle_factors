@@ -1,29 +1,50 @@
+# ------------------------------------------------------------------------
+# This module handles I/O functions for files from TCGA_LUAD dataset.
+#
+# Author: Shuting Chen
+# Date Created: 11/25/2022
+# Date Last Modified: 11/27/2022
+# ------------------------------------------------------------------------
+
+__all__ = ['load_patients_overview', 'patients_overview_to_tsv', 'uuid_connect', 'files_overview',
+           'db_path', 'metadata_filename', 'patients_filename']
+
 import pandas as pd
 import os
 import json
-from file_error import *
+from io_handler import file_error as fe
 
-__all__ = ['load_patients_overview']
-
-db_path = "/Users/iris/Desktop/LCPF/database/"  # glob variable for database path
+# glob variable for database path
+db_path = "/Users/iris/Desktop/LCPF/database/"
 metadata_filename = "metadata.cart.2022-11-26.json"
 patients_filename = "clinical_info.tsv"
 
-def load_patients_overview(path, prefix):
+
+def load_patients_overview(prefix):
+    """
+        Concatenate sub-files of patients data into one
+    """
     subfiles = []
+    path = db_path + "case_overview/"
     if path[-1] != "/":
         path += "/"
+    # iterate through sub-files
     for path, currentDirectory, files in os.walk(path):
         for file in files:
             if file.startswith(prefix):
+                # save the sub-file for concat
                 subfiles.append(pd.read_table(path + file))
 
     return pd.concat(subfiles)
 
 
 def patients_overview_to_tsv():
+    """
+        output the overview file of patients to tsv
+    """
     # read files
     path = db_path + "case_overview/"
+    fe.file_exists(path)
     clinical_info = load_patients_overview(path, "repository-cases-table")
     # clean up columns
     clinical_info = clinical_info.drop(
@@ -31,18 +52,25 @@ def patients_overview_to_tsv():
     clinical_info.to_csv(path + patients_filename, sep="\t")
 
 
-def files_overview(path):
+def files_overview(file_path):
+    """
+        read json file and return file content
+    """
     # open json file
-    f = open(path)
+    fe.file_exists(file_path)
+    f = open(file_path)
     f_content = json.load(f)
     f.close()
     return f_content
 
 
 def uuid_connect():
+    """
+        connect case uuids to corresponding file uuids and file names of RNA_Seq and WXS file
+    """
     # read patients overview
     ov_path = db_path + "case_overview/" + patients_filename
-    file_exists(ov_path)
+    fe.file_exists(ov_path)
     ov_content = pd.read_table(ov_path)
 
     # read manifest data
@@ -52,9 +80,10 @@ def uuid_connect():
     # match patients ids to file ids
     case_holder = {}
     for i in ov_content['Case ID']:
-        case_holder[i] = {} # hold corresponding file paths for RNA-Seq and WXS
+        case_holder[i] = {}  # hold corresponding file paths for RNA-Seq and WXS
         for j in mf_content:
             if i in j["associated_entities"][0]["entity_submitter_id"]:
+                # check data type: RNA-Seq or WXS
                 if j['data_type'] == 'Gene Expression Quantification':
                     case_holder[i]['RNA_Seq'] = j['file_id'] + "/" + j['file_name']
                 elif j['data_type'] == 'Masked Somatic Mutation':
@@ -64,9 +93,9 @@ def uuid_connect():
 
 
 def output_uuid_connections():
+    """
+        output uuid connections from uuid_connect() into a json file under db_path
+    """
     case_holder = uuid_connect()
     with open(db_path + "uuid_connections.json", "w") as outfile:
         json.dump(case_holder, outfile)
-
-
-
