@@ -1,5 +1,11 @@
 This research aims to assemble the global features of lung cancer cases to make clinical decisions, instead of a group of independent biomarkers or lifestyle records such as smoking and asbestos exposures. We expect to build a dynamic deep learning network to capture these interrelated factors to mimic the pathological processes.
 
+eg, known factors:
+Biomarkers: KRAS, MYC family, BCL-2, HER2, EGFR, etc.
+Life style: smoke, randon gas, asbestos exposure, coal dust, etc.
+
+The main reason happened on lung cancer patients is that something, whatever exogenous/environmental or endogenous, happened which triggers some cells to grow out of control. Genetically it could be mutations on oncogenes and suppressor genes, and environmentally it could be carcinogenic substances from air pollution or diet. They are contributing to the tumor developmental consequences by different weights, hence we need a comprehensive network to include them as more as possible in a flexible hierarchy to guarantee the outcome precision, accuracy, and also sensitivity.
+
 
 Features we expect to consider (draft):
 * NC: not completed
