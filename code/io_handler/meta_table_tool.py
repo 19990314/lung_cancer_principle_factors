@@ -6,7 +6,7 @@
 # Date Last Modified: 11/27/2022
 # ------------------------------------------------------------------------
 
-__all__ = ['load_patients_overview', 'patients_overview_to_tsv', 'uuid_connect', 'files_overview',
+__all__ = ['load_patients_overview', 'patients_overview_to_tsv', 'uuid_connect', 'json_parser',
            'db_path', 'metadata_filename', 'patients_filename']
 
 import pandas as pd
@@ -20,12 +20,11 @@ metadata_filename = "metadata.cart.2022-11-26.json"
 patients_filename = "clinical_info.tsv"
 
 
-def load_patients_overview(prefix):
+def load_patients_overview(path, prefix):
     """
         Concatenate sub-files of patients data into one
     """
     subfiles = []
-    path = db_path + "case_overview/"
     if path[-1] != "/":
         path += "/"
     # iterate through sub-files
@@ -38,21 +37,21 @@ def load_patients_overview(prefix):
     return pd.concat(subfiles)
 
 
-def patients_overview_to_tsv():
+def patients_overview_to_tsv(prefix):
     """
         output the overview file of patients to tsv
     """
     # read files
     path = db_path + "case_overview/"
     fe.file_exists(path)
-    clinical_info = load_patients_overview(path, "repository-cases-table")
+    clinical_info = load_patients_overview(path, prefix)
     # clean up columns
-    clinical_info = clinical_info.drop(
-        columns=['Cart', 'Files', 'Seq', 'Exp', 'CNV', 'Meth', 'Clinical', 'Bio', 'Program', 'Disease Type'])
+    #clinical_info = clinical_info.drop(
+    #    columns=['Cart', 'Files', 'Seq', 'Exp', 'CNV', 'Meth', 'Clinical', 'Bio', 'Program', 'Disease Type'])
     clinical_info.to_csv(path + patients_filename, sep="\t")
 
 
-def files_overview(file_path):
+def json_parser(file_path):
     """
         read json file and return file content
     """
@@ -75,7 +74,7 @@ def uuid_connect():
 
     # read manifest data
     mf_path = db_path + metadata_filename
-    mf_content = files_overview(mf_path)
+    mf_content = json_parser(mf_path)
 
     # match patients ids to file ids
     case_holder = {}
