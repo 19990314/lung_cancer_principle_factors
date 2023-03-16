@@ -13,11 +13,12 @@ import pandas as pd
 import os
 import json
 from io_handler import file_error as fe
+from Bio import AlignIO
 
 # glob variable for database path
 db_path = "/Users/iris/Desktop/LCPF/database/"
 metadata_filename = "metadata.cart.2022-11-26.json"
-patients_filename = "clinical_info.tsv"
+patients_filename = "case_overview/clinical_info.tsv"
 
 
 def load_patients_overview(path, prefix):
@@ -48,7 +49,7 @@ def patients_overview_to_tsv(prefix):
     # clean up columns
     #clinical_info = clinical_info.drop(
     #    columns=['Cart', 'Files', 'Seq', 'Exp', 'CNV', 'Meth', 'Clinical', 'Bio', 'Program', 'Disease Type'])
-    clinical_info.to_csv(path + patients_filename, sep="\t")
+    clinical_info.to_csv(db_path + patients_filename, sep="\t")
 
 
 def json_parser(file_path):
@@ -98,3 +99,17 @@ def output_uuid_connections():
     case_holder = uuid_connect()
     with open(db_path + "uuid_connections.json", "w") as outfile:
         json.dump(case_holder, outfile)
+
+
+
+def get_maf(id, raw_db_path):
+    """
+        parse maf data for a certain patient by his/her id
+    """
+    uuid_map = json_parser(db_path + "uuid_connections.json")
+    map_path = raw_db_path + uuid_map[id]['WXS']
+
+    print(uuid_map)
+
+
+get_maf("TCGA-44-A47A", "/Users/iris/Downloads/gdc_download_20230308_190052.048907/")
