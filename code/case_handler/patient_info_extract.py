@@ -14,4 +14,5 @@ uuid_map = uuid_map.rename(columns = {'index':'Case ID'})
 asembled = pd.merge(patients_info, uuid_map, left_on='Case ID', right_on='Case ID', how="outer")
 
 # patients_info.drop(la)
+asembled.to_csv(db_path + "final_assemble.csv")
 print(patients_info)

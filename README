@@ -1,0 +1,29 @@
+Lung Cancer Principle Factors
+
+This README file introduces the pipeline of analyzing the principle factors influencing the pathology of lung cancer cases, in order to build a deep learning network which considers the global features to make clinical decisions, such as prescription and prognosis. Past studies have done great work in this area, whereas the aim of this study is to focus on upgrading the precision and accuracy by comprehensively correlated features, which could explain tumor growth based on hierachical data from multi-omic biomarkers and patients' health records.
+
+Data download from: TCGA LUAD project (https://portal.gdc.cancer.gov/projects/TCGA-LUAD)
+Data documentation: https://docs.gdc.cancer.gov/Data/Bioinformatics_Pipelines/Methylation_Pipeline/
+Located at: ./database
+Number of cases included: 585
+
+----
+
+Human Molecular Signatures Database (MSigDB) from GSEA (Geneset Enrichment Analysis):
+
+Data download from: https://www.gsea-msigdb.org/gsea/msigdb/human/collections.jsp#C3
+Data documentation: https://docs.gsea-msigdb.org/#MSigDB/MSigDB_SQLite_Database/
+
+Note:
+The 33591 gene sets in the Human Molecular Signatures Database (MSigDB) are divided into 9 major collections, which in this project, we are using 3 of them as cancer-related gene sets.
+C3: regulatory target gene sets - TFT: transcription factor targets
+Contains: 1115 gene sets
+Description: All transcription factor target prediction gene sets. Combined superset of both GTRD prediction methods and legacy sets.
+
+C5: ontology gene sets
+Contains: 15937 gene sets
+Description:
+
+C6: oncogenic signature gene sets
+Contains: 189 gene sets
+Description: Gene sets that represent signatures of cellular pathways which are often dis-regulated in cancer. The majority of signatures were generated directly from microarray data from NCBI GEO or from internal unpublished profiling experiments involving perturbation of known cancer genes.
