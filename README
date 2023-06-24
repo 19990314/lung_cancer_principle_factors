@@ -22,7 +22,7 @@ Description: All transcription factor target prediction gene sets. Combined supe
 
 C5: ontology gene sets
 Contains: 15937 gene sets
-Description:
+Description: Gene sets that contain genes annotated by the same ontology term. The C5 collection is divided into two subcollections, the first derived from the Gene Ontology resource (GO) which contains BP, CC, and MF components and a second derived from the Human Phenotype Ontology (HPO).
 
 C6: oncogenic signature gene sets
 Contains: 189 gene sets
