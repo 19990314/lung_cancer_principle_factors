@@ -119,4 +119,4 @@ def get_maf(id, raw_db_path):
     print(uuid_map)
 
 
-get_maf("TCGA-44-A47A", "/Users/iris/Downloads/gdc_download_20230308_190052.048907/")
+#get_maf("TCGA-44-A47A", "/Users/iris/Downloads/gdc_download_20230308_190052.048907/")
