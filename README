@@ -9,6 +9,22 @@ Number of cases included: 585
 
 ----
 
+TCGA download:
+
+EASY WAY:
+1. from TCGA website: add your files to cart
+2. from TCGA website: generate a manifest file
+3. use gdc-client tool: download all the files recorded in the manifest
+install:  https://gdc.cancer.gov/access-data/gdc-data-transfer-tool
+documentation: https://docs.gdc.cancer.gov/Data_Transfer_Tool/Users_Guide/Preparing_for_Data_Download_and_Upload/
+4. ERROR: Need Authentic token to download from gdc-client
+
+MY WAY:
+Hence I just "DOWNLOAD THE WHOLE CART".
+TODO: Since it is challenging when cases are updated, I need to figure out the gdc-client tool with an authentic token.
+
+----
+
 Human Molecular Signatures Database (MSigDB) from GSEA (Geneset Enrichment Analysis):
 
 Data download from: https://www.gsea-msigdb.org/gsea/msigdb/human/collections.jsp#C3

@@ -7,16 +7,21 @@
 # ------------------------------------------------------------------------
 
 __all__ = ['load_patients_overview', 'patients_overview_to_tsv', 'uuid_connect', 'json_parser',
-           'db_path', 'metadata_filename', 'patients_filename']
+           'tcga_path', 'metadata_filename', 'patients_filename']
 
 import pandas as pd
 import os
 import json
-from io_handler import file_error as fe
+import toolset.io_handler.file_error as fe
 from Bio import AlignIO
+import os
 
-# glob variable for database path
-db_path = "/Users/iris/Desktop/LCPF/database/"
+# sync current path
+current_dir = os.getcwd()
+proj_root = os.path.abspath(os.path.join(current_dir, "../.."))
+tcga_path = proj_root + "/tcga_db/"
+
+# glob variables for tcga_db path
 metadata_filename = "metadata.cart.2022-11-26.json"
 patients_filename = "case_overview/clinical_info.tsv"
 
@@ -43,21 +48,22 @@ def patients_overview_to_tsv(prefix):
         output the overview file of patients to tsv
     """
     # read files
-    path = db_path + "case_overview/"
+    path = tcga_path + "case_overview/"
     fe.file_exists(path)
     clinical_info = load_patients_overview(path, prefix)
     # clean up columns
     #clinical_info = clinical_info.drop(
     #    columns=['Cart', 'Files', 'Seq', 'Exp', 'CNV', 'Meth', 'Clinical', 'Bio', 'Program', 'Disease Type'])
-    clinical_info.to_csv(db_path + patients_filename, sep="\t")
+    clinical_info.to_csv(tcga_path + patients_filename, sep="\t")
 
 
 def json_parser(file_path):
     """
         read json file and return file content
     """
-    # open json file
+    # check file path
     fe.file_exists(file_path)
+    # open json file
     f = open(file_path)
     f_content = json.load(f)
     f.close()
@@ -69,12 +75,12 @@ def uuid_connect():
         connect case uuids to corresponding file uuids and file names of RNA_Seq and WXS file
     """
     # read patients overview
-    ov_path = db_path + "case_overview/" + patients_filename
+    ov_path = tcga_path + "case_overview/" + patients_filename
     fe.file_exists(ov_path)
     ov_content = pd.read_table(ov_path)
 
     # read manifest data
-    mf_path = db_path + metadata_filename
+    mf_path = tcga_path + metadata_filename
     mf_content = json_parser(mf_path)
 
     # match patients ids to file ids
@@ -97,7 +103,7 @@ def output_uuid_connections():
         output uuid connections from uuid_connect() into a json file under db_path
     """
     case_holder = uuid_connect()
-    with open(db_path + "uuid_connections.json", "w") as outfile:
+    with open(tcga_path + "uuid_connections.json", "w") as outfile:
         json.dump(case_holder, outfile)
 
 
@@ -106,7 +112,8 @@ def get_maf(id, raw_db_path):
     """
         parse maf data for a certain patient by his/her id
     """
-    uuid_map = json_parser(db_path + "uuid_connections.json")
+    #TODO: MAF file
+    uuid_map = json_parser(tcga_path + "uuid_connections.json")
     map_path = raw_db_path + uuid_map[id]['WXS']
 
     print(uuid_map)

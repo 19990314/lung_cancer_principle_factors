@@ -14,5 +14,5 @@ def file_exists(path):
         check if file exists
     """
     if not exists(path):
-        print("Please update your database, something is missing:" + path)
+        print("Please update your tcga_db, something is missing:" + path)
         exit(1)

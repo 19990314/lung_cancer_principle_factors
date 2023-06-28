@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 from io_handler import meta_table_tool as io
 
 # glob variable declare
-clinical_path = io.db_path + "clinical/"
+clinical_path = io.tcga_path + "clinical/"
 
 
 def clinical_deviations():
