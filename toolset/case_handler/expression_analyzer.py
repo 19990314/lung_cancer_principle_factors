@@ -1,7 +1,8 @@
 from patient_info import *
 from toolset.io_handler.file_error import *
 
-
+import os
+print(os.getcwd())
 def encode_expression(exp_dir):
     # read expression data
     expression_table = pd.read_csv(exp_dir, sep="\t")
