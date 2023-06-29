@@ -16,3 +16,14 @@ def file_exists(path):
     if not exists(path):
         print("Please update your tcga_db, something is missing:" + path)
         exit(1)
+
+
+def check_path_with_log(path):
+    """
+        check if file exists
+        return 2 elements: a flag, and a message
+    """
+    if exists(path):
+        return True, "VALID FILE: " + path
+    else:
+        return False, "INVALID FILE: " + path
