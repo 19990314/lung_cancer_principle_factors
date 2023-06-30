@@ -8,8 +8,6 @@
 
 from os.path import exists
 
-__all__ = ['file_exists', 'check_path_with_log']
-
 
 def file_exists(path):
     """

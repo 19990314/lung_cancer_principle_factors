@@ -6,8 +6,8 @@
 # Date Last Modified: 11/27/2022
 # ------------------------------------------------------------------------
 
-__all__ = ['load_patients_overview', 'patients_overview_to_tsv', 'uuid_connect', 'json_parser',
-           'tcga_path', 'metadata_filename', 'patients_filename']
+#__all__ = ['load_patients_overview', 'patients_overview_to_tsv', 'uuid_connect', 'json_parser',
+#           'tcga_path', 'proj_root', 'metadata_filename', 'patients_filename']
 
 import pandas as pd
 import os
