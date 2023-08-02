@@ -7,8 +7,6 @@
     <list default="true" id="3a18765a-73ce-408e-bbe1-8154b69a896c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/toolset/case_handler/model_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/toolset/case_handler/model_1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toolset/io_handler/file_error.py" beforeDir="false" afterPath="$PROJECT_DIR$/toolset/io_handler/file_error.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toolset/io_handler/meta_table_tool.py" beforeDir="false" afterPath="$PROJECT_DIR$/toolset/io_handler/meta_table_tool.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +191,9 @@
       <workItem from="1687809241955" duration="994000" />
       <workItem from="1687895050020" duration="6643000" />
       <workItem from="1687963456829" duration="6888000" />
-      <workItem from="1688050801633" duration="6286000" />
+      <workItem from="1688050801633" duration="7224000" />
+      <workItem from="1690671249269" duration="3805000" />
+      <workItem from="1690909968433" duration="6886000" />
     </task>
     <servers />
   </component>
